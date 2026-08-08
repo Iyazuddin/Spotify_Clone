@@ -1,0 +1,200 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Tauba Tauba",
+      "artist": "Karan Aujla, Badshah",
+      "album": "Sarfira",
+      "videoId": "UMY6yfPUewo",
+      "gradient": "linear-gradient(135deg, #f77f00, #d62828)",
+      "lyrics": [
+        { "time": 0, "hi": "तौबा तौबा, dil tera kyun mera hua", "en": "Tauba tauba, why did your heart become mine?" },
+        { "time": 12, "hi": "Tujhpe fida main, har pal yeh kehta raha", "en": "I'm devoted to you, I kept saying every moment" },
+        { "time": 24, "hi": "Teri aankhon mein dooba sa jahan hai mera", "en": "My world is lost in your eyes" },
+        { "time": 36, "hi": "Tere bina ab kahan hai mera", "en": "Without you, where am I now?" },
+        { "time": 48, "hi": "Tauba tauba, dil tera kyun mera hua", "en": "Tauba tauba, why did your heart become mine?" },
+        { "time": 60, "hi": "Raaton ko tera naam likha hai chaand pe", "en": "Nights write your name on the moon" },
+        { "time": 72, "hi": "Sapno mein tu, har subah tu hi mila", "en": "You in dreams, every morning I find you" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Satranga",
+      "artist": "Arijit Singh",
+      "album": "Animal",
+      "videoId": "HrnrqYxYrbk",
+      "gradient": "linear-gradient(135deg, #9d0208, #dc2f02)",
+      "lyrics": [
+        { "time": 0, "hi": "Satranga sa ye jahan, rang tere hi toh hain", "en": "This world is seven-colored, all shades are yours" },
+        { "time": 14, "hi": "Tu jo hai saath mera, har pal suhana lagta", "en": "With you beside me, every moment feels beautiful" },
+        { "time": 28, "hi": "Dil ki dhadkan tera naam le ke chale", "en": "My heartbeat walks calling your name" },
+        { "time": 42, "hi": "Tere bina adhura sa yeh jahan lagta", "en": "Without you this world feels incomplete" },
+        { "time": 56, "hi": "Satranga sa ye dil, tujhpe hi toh hai", "en": "This heart is seven-colored, all for you" },
+        { "time": 70, "hi": "Tera saaya har raah pe saath chale", "en": "Your shadow walks with me on every path" }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Khalasi",
+      "artist": "Achint, Aditya Gadhvi",
+      "album": "Coke Studio Bharat",
+      "videoId": "Iy9aw7SOVhA",
+      "gradient": "linear-gradient(135deg, #0077b6, #023e8a)",
+      "lyrics": [
+        { "time": 0, "hi": "Khalasi, khalasi, samandar ki leheron pe", "en": "Sailor, sailor, on the waves of the ocean" },
+        { "time": 15, "hi": "Chal diya dil mera apne ghar ko", "en": "My heart set off toward its home" },
+        { "time": 30, "hi": "Dhoondhe kinara, dhoondhe kinara", "en": "Searching for the shore, searching for the shore" },
+        { "time": 45, "hi": "Raah mein tera naam, raah mein tera chehra", "en": "Your name on the path, your face on the path" },
+        { "time": 60, "hi": "Khalasi, khalasi, le chal mujhe door", "en": "Sailor, sailor, take me far away" },
+        { "time": 75, "hi": "Jahan tu ho wahan mera ghar hai", "en": "Where you are, that is my home" }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Chaleya",
+      "artist": "Arijit Singh, Shilpa Rao",
+      "album": "Jawan",
+      "videoId": "VAdGW7QDJiU",
+      "gradient": "linear-gradient(135deg, #b5179e, #4361ee)",
+      "lyrics": [
+        { "time": 0, "hi": "Chaleya chaleya, dil ke paas tu aaya", "en": "You came close to my heart" },
+        { "time": 14, "hi": "Jaane kyun, jaane kyun ye dil gaya", "en": "Don't know why, this heart fell for you" },
+        { "time": 28, "hi": "Teri baahon mein khoya sa main rahun", "en": "Let me stay lost in your arms" },
+        { "time": 42, "hi": "Har pal tera naam, har saans tera", "en": "Your name every moment, you in every breath" },
+        { "time": 56, "hi": "Chaleya chaleya, tere ishq mein main", "en": "I walked into your love" },
+        { "time": 70, "hi": "Tujhse juda ab kuch bhi na chahun", "en": "I want nothing apart from you now" }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "O Maahi",
+      "artist": "Arijit Singh",
+      "album": "Dunki",
+      "videoId": "Etkd-07gnxM",
+      "gradient": "linear-gradient(135deg, #2d6a4f, #52b788)",
+      "lyrics": [
+        { "time": 0, "hi": "O Maahi, O Maahi, tera mera rishta purana", "en": "O Maahi, our bond is old and deep" },
+        { "time": 16, "hi": "Dil se dil ka jo hai silsila", "en": "The thread that ties heart to heart" },
+        { "time": 32, "hi": "Tujh bin jeena ab mushkil sa lagta", "en": "Living without you feels impossible now" },
+        { "time": 48, "hi": "Teri yaadon mein khoya rehta hoon", "en": "I stay lost in memories of you" },
+        { "time": 64, "hi": "O Maahi, O Maahi, tu hi meri duniya", "en": "O Maahi, you are my whole world" },
+        { "time": 80, "hi": "Saath tera chahun har pal har lamha", "en": "I want you with me every moment" }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Kesariya",
+      "artist": "Arijit Singh",
+      "album": "Brahmastra",
+      "videoId": "BddP6PYo2gs",
+      "gradient": "linear-gradient(135deg, #e8a87c, #e07a5f)",
+      "lyrics": []
+    },
+    {
+      "id": 7,
+      "title": "Apna Bana Le",
+      "artist": "Arijit Singh",
+      "album": "Bhediya",
+      "videoId": "ElZfdU54Cp8",
+      "gradient": "linear-gradient(135deg, #1e9e9e, #1565c0)",
+      "lyrics": []
+    },
+    {
+      "id": 8,
+      "title": "Pasoori",
+      "artist": "Ali Sethi & Shae Gill",
+      "album": "Coke Studio Season 14",
+      "videoId": "5Eqb_-j3FDA",
+      "gradient": "linear-gradient(135deg, #ff7e67, #ffb86b)",
+      "lyrics": []
+    },
+    {
+      "id": 9,
+      "title": "Jhoome Jo Pathaan",
+      "artist": "Arijit Singh",
+      "album": "Pathaan",
+      "videoId": "AU9AdGIdWZs",
+      "gradient": "linear-gradient(135deg, #ff5e3a, #ff2e63)",
+      "lyrics": []
+    },
+    {
+      "id": 10,
+      "title": "Heeriye",
+      "artist": "Jasleen Royal, Arijit Singh",
+      "album": "Heeriye",
+      "videoId": "RLzC55ai0eo",
+      "gradient": "linear-gradient(135deg, #7f5af0, #6246ea)",
+      "lyrics": []
+    },
+    {
+      "id": 11,
+      "title": "Raataan Lambiyan",
+      "artist": "Jubin Nautiyal, Tanishk Bagchi",
+      "album": "Shershaah",
+      "videoId": "RxivQmJnKjY",
+      "gradient": "linear-gradient(135deg, #f76b8a, #e0568d)",
+      "lyrics": []
+    },
+    {
+      "id": 12,
+      "title": "Besharam Rang",
+      "artist": "Shilpa Rao, Vishal-Shekhar",
+      "album": "Pathaan",
+      "videoId": "wxKs1JuMBeY",
+      "gradient": "linear-gradient(135deg, #f4a300, #c62828)",
+      "lyrics": []
+    },
+    {
+      "id": 13,
+      "title": "We Don't Talk Anymore",
+      "artist": "Charlie Puth",
+      "album": "Nine Track Mind",
+      "videoId": "3AtDnEC4zak",
+      "gradient": "linear-gradient(135deg, #6a3093, #a044ff)",
+      "lyrics": []
+    },
+    {
+      "id": 14,
+      "title": "I Think They Call This Love",
+      "artist": "Matthew Ifield",
+      "album": "I Think They Call This Love",
+      "videoId": "2r0pGPAB26g",
+      "gradient": "linear-gradient(135deg, #7f7fd5, #91eae4)",
+      "lyrics": []
+    },
+    {
+      "id": 15,
+      "title": "Let The World Burn",
+      "artist": "Chris Grey",
+      "album": "Let The World Burn",
+      "videoId": "SkcO47UDzzY",
+      "gradient": "linear-gradient(135deg, #ff416c, #ff4b2b)",
+      "lyrics": []
+    },
+    {
+      "id": 16,
+      "title": "Baby",
+      "artist": "Justin Bieber",
+      "album": "My World 2.0",
+      "videoId": "kffacxfA7G4",
+      "gradient": "linear-gradient(135deg, #00b4db, #0083b0)",
+      "lyrics": []
+    },
+    {
+      "id": 17,
+      "title": "Danza Kuduro (Version MTO)",
+      "artist": "fastlife, Lucenzo",
+      "album": "Danza Kuduro",
+      "videoId": "LszrNDvIivU",
+      "gradient": "linear-gradient(135deg, #f7971e, #ffd200)",
+      "lyrics": []
+    }
+  ],
+  "sections": [
+    { "id": "recently-played", "title": "Recently Played", "songIds": [1, 2, 3] },
+    { "id": "trending-india", "title": "Trending in India", "songIds": [4, 5, 6] },
+    { "id": "top-charts", "title": "Top Charts", "songIds": [7, 8, 9, 10] },
+    { "id": "made-for-you", "title": "Made for You", "songIds": [11, 12] },
+    { "id": "english-hits", "title": "English Hits", "songIds": [13, 14, 15, 16, 17] }
+  ]
+}

@@ -1,0 +1,40 @@
+# ---------- Dependencies ----------
+# Installed by `npm install` — never commit; regenerate with package.json
+node_modules/
+
+# ---------- Environment / secrets ----------
+# Local config with API keys, DB passwords, tokens — never commit
+.env
+.env.*
+!.env.example
+
+# ---------- Logs ----------
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ---------- OS junk ----------
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ---------- Editor / IDE ----------
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+
+# ---------- Build / temp ----------
+coverage/
+dist/
+build/
+tmp/
+temp/
+*.tmp

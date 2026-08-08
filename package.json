@@ -1,0 +1,12 @@
+{
+  "name": "spotify-clone",
+  "version": "1.0.0",
+  "description": "Spotify web player clone with a Node.js/Express backend serving a JSON-backed REST API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
