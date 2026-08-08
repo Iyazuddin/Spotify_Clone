@@ -8,13 +8,256 @@
       "videoId": "UMY6yfPUewo",
       "gradient": "linear-gradient(135deg, #f77f00, #d62828)",
       "lyrics": [
-        { "time": 0, "hi": "तौबा तौबा, dil tera kyun mera hua", "en": "Tauba tauba, why did your heart become mine?" },
-        { "time": 12, "hi": "Tujhpe fida main, har pal yeh kehta raha", "en": "I'm devoted to you, I kept saying every moment" },
-        { "time": 24, "hi": "Teri aankhon mein dooba sa jahan hai mera", "en": "My world is lost in your eyes" },
-        { "time": 36, "hi": "Tere bina ab kahan hai mera", "en": "Without you, where am I now?" },
-        { "time": 48, "hi": "Tauba tauba, dil tera kyun mera hua", "en": "Tauba tauba, why did your heart become mine?" },
-        { "time": 60, "hi": "Raaton ko tera naam likha hai chaand pe", "en": "Nights write your name on the moon" },
-        { "time": 72, "hi": "Sapno mein tu, har subah tu hi mila", "en": "You in dreams, every morning I find you" }
+        {
+          "time": 1.73,
+          "hi": "Uh, yeah, yeah, yeah",
+          "en": ""
+        },
+        {
+          "time": 6.6,
+          "hi": "(Haan, tauba-tauba) Yeah Proof",
+          "en": ""
+        },
+        {
+          "time": 9.23,
+          "hi": "Husan tera tauba-tauba, tauba-tauba",
+          "en": ""
+        },
+        {
+          "time": 14.36,
+          "hi": "Husan tera tauba-tauba, tauba-tauba",
+          "en": ""
+        },
+        {
+          "time": 19.4,
+          "hi": "Husan tera tauba-tauba, tauba-tauba",
+          "en": ""
+        },
+        {
+          "time": 24.33,
+          "hi": "Husan tera tauba-tauba, tauba-tauba",
+          "en": ""
+        },
+        {
+          "time": 29.92,
+          "hi": "O, le leya kudi ne dil saada",
+          "en": ""
+        },
+        {
+          "time": 32.25,
+          "hi": "Haale thoda saaf jeha nahin lagda iraada",
+          "en": ""
+        },
+        {
+          "time": 34.72,
+          "hi": "Gutt baahli lambi ni rakhi hai mutiyaar ne",
+          "en": ""
+        },
+        {
+          "time": 37.06,
+          "hi": "Hai dikhda paranda, nahiyon dikhda Prada (stop)",
+          "en": ""
+        },
+        {
+          "time": 40.4,
+          "hi": "Figure ton lagdi Latino",
+          "en": ""
+        },
+        {
+          "time": 42.4,
+          "hi": "Ikk vaari dass do ji enni kyun shukin o",
+          "en": ""
+        },
+        {
+          "time": 44.95,
+          "hi": "Kal hi tu Italy ton aayi, marjaaniye",
+          "en": ""
+        },
+        {
+          "time": 47.28,
+          "hi": "Te purse tu Paris ton mangaaya Valentino",
+          "en": ""
+        },
+        {
+          "time": 50.5,
+          "hi": "Haan, tainu kyun na dikhaan?",
+          "en": ""
+        },
+        {
+          "time": 54.65,
+          "hi": "Tere ton ki sikhaan? Tere 'te ki likhaan?",
+          "en": ""
+        },
+        {
+          "time": 59.74,
+          "hi": "Husan tera tauba-tauba, tauba-tauba",
+          "en": ""
+        },
+        {
+          "time": 64.85,
+          "hi": "Husan tera tauba-tauba, tauba-tauba",
+          "en": ""
+        },
+        {
+          "time": 70.05,
+          "hi": "Husan tera tauba-tauba, tauba-tauba",
+          "en": ""
+        },
+        {
+          "time": 74.85,
+          "hi": "Husan tera tauba-tauba, tauba-tauba",
+          "en": ""
+        },
+        {
+          "time": 80.79,
+          "hi": "Sohniye, ni akh teri thief ae",
+          "en": ""
+        },
+        {
+          "time": 82.75,
+          "hi": "Aira-gaira dekhdi nahin eddan taan sharif aa",
+          "en": ""
+        },
+        {
+          "time": 85.91,
+          "hi": "Aithey kehndi too much desi",
+          "en": ""
+        },
+        {
+          "time": 87.48,
+          "hi": "Taanhi chill kare London te party Ibiza",
+          "en": ""
+        },
+        {
+          "time": 91.03,
+          "hi": "Saade layi free nahin bhora lagdi",
+          "en": ""
+        },
+        {
+          "time": 92.82,
+          "hi": "IG story ton taan Bora Bora lagdi",
+          "en": ""
+        },
+        {
+          "time": 95.35,
+          "hi": "'Waaz teri, sohniye, surili noori wargi",
+          "en": ""
+        },
+        {
+          "time": 97.97,
+          "hi": "Jadon lakk hillda odon taan Nora lagdi",
+          "en": ""
+        },
+        {
+          "time": 101.08,
+          "hi": "Haan, milna dassde",
+          "en": ""
+        },
+        {
+          "time": 105.29,
+          "hi": "Koi thaan dassde, meri jaan, dassde",
+          "en": ""
+        },
+        {
+          "time": 110.49,
+          "hi": "Husan tera tauba-tauba, tauba-tauba",
+          "en": ""
+        },
+        {
+          "time": 115.22,
+          "hi": "Husan tera tauba-tauba, tauba-tauba",
+          "en": ""
+        },
+        {
+          "time": 120.43,
+          "hi": "Husan tera tauba-tauba, tauba-tauba",
+          "en": ""
+        },
+        {
+          "time": 125.59,
+          "hi": "Husan tera tauba-tauba, tauba-tauba",
+          "en": ""
+        },
+        {
+          "time": 141.19,
+          "hi": "Haaye, mittran ton akh teri mange kangna",
+          "en": ""
+        },
+        {
+          "time": 144.1,
+          "hi": "Hune main bana daan, mainu dass taan sahi",
+          "en": ""
+        },
+        {
+          "time": 146.4,
+          "hi": "Jaan mang la, main taithon jaan vaar daan",
+          "en": ""
+        },
+        {
+          "time": 148.97,
+          "hi": "Aape nikaloogi, ni tu hass taan sahi",
+          "en": ""
+        },
+        {
+          "time": 151.24,
+          "hi": "Haaye, tere vich nasha pehle tod da, kude",
+          "en": ""
+        },
+        {
+          "time": 154.16,
+          "hi": "Sohniye, sharaab da taan naam lagda",
+          "en": ""
+        },
+        {
+          "time": 156.63,
+          "hi": "Saade ton chadhayi teri vadh ho gayi",
+          "en": ""
+        },
+        {
+          "time": 159.16,
+          "hi": "Nikale taan sadkaan 'te jaam lagda",
+          "en": ""
+        },
+        {
+          "time": 161.76,
+          "hi": "Haan, gall maan meri",
+          "en": ""
+        },
+        {
+          "time": 165.78,
+          "hi": "Mehmaan meri, tu ae jaan meri",
+          "en": ""
+        },
+        {
+          "time": 171.18,
+          "hi": "Husan tera tauba-tauba, tauba-tauba",
+          "en": ""
+        },
+        {
+          "time": 176.06,
+          "hi": "Husan tera tauba-tauba, tauba-tauba",
+          "en": ""
+        },
+        {
+          "time": 181.18,
+          "hi": "Husan tera tauba-tauba, tauba-tauba",
+          "en": ""
+        },
+        {
+          "time": 186.16,
+          "hi": "Husan tera tauba-tauba, tauba-tauba",
+          "en": ""
+        },
+        {
+          "time": 191.22,
+          "hi": "Husan tera tauba-tauba, tauba-tauba",
+          "en": ""
+        },
+        {
+          "time": 196.11,
+          "hi": "Husan tera tauba-tauba, tauba-tauba",
+          "en": ""
+        }
       ]
     },
     {
@@ -25,12 +268,156 @@
       "videoId": "HrnrqYxYrbk",
       "gradient": "linear-gradient(135deg, #9d0208, #dc2f02)",
       "lyrics": [
-        { "time": 0, "hi": "Satranga sa ye jahan, rang tere hi toh hain", "en": "This world is seven-colored, all shades are yours" },
-        { "time": 14, "hi": "Tu jo hai saath mera, har pal suhana lagta", "en": "With you beside me, every moment feels beautiful" },
-        { "time": 28, "hi": "Dil ki dhadkan tera naam le ke chale", "en": "My heartbeat walks calling your name" },
-        { "time": 42, "hi": "Tere bina adhura sa yeh jahan lagta", "en": "Without you this world feels incomplete" },
-        { "time": 56, "hi": "Satranga sa ye dil, tujhpe hi toh hai", "en": "This heart is seven-colored, all for you" },
-        { "time": 70, "hi": "Tera saaya har raah pe saath chale", "en": "Your shadow walks with me on every path" }
+        {
+          "time": 13.17,
+          "hi": "Aadha tera ishq, aadha mera",
+          "en": ""
+        },
+        {
+          "time": 19.36,
+          "hi": "Aise ho poora chandrama",
+          "en": ""
+        },
+        {
+          "time": 24.26,
+          "hi": "Oh, taara tera, ek taara mera",
+          "en": ""
+        },
+        {
+          "time": 31.16,
+          "hi": "Baaqi andhera aasmaan",
+          "en": ""
+        },
+        {
+          "time": 35.25,
+          "hi": "Na tere sang laage baandhe jo peepal pe dhaage",
+          "en": ""
+        },
+        {
+          "time": 41.46,
+          "hi": "Ye surme ke dhaare behte hain nazrein bacha ke",
+          "en": ""
+        },
+        {
+          "time": 47.92,
+          "hi": "Bad-rang mein satranga hai ye ishq re",
+          "en": ""
+        },
+        {
+          "time": 53.89,
+          "hi": "Jogi main, aur Ganga hai ye ishq re",
+          "en": ""
+        },
+        {
+          "time": 59.73,
+          "hi": "Bad-rang mein satranga hai ye ishq re",
+          "en": ""
+        },
+        {
+          "time": 65.75,
+          "hi": "Jogi main, aur Ganga hai ye ishq re",
+          "en": ""
+        },
+        {
+          "time": 99.24,
+          "hi": "Maathe se laga loon haath chhoo ke main pair tere",
+          "en": ""
+        },
+        {
+          "time": 109.78,
+          "hi": "Ho, rakh loon main tan pe zakhm bana saare bair tere",
+          "en": ""
+        },
+        {
+          "time": 121.53,
+          "hi": "Rukna ni tu, hun rusna ni main",
+          "en": ""
+        },
+        {
+          "time": 126.12,
+          "hi": "Tera ni reha te na khud da bhi main",
+          "en": ""
+        },
+        {
+          "time": 131.34,
+          "hi": "Duniya tu hi hai meri, par na aana, ab na aana",
+          "en": ""
+        },
+        {
+          "time": 136.6,
+          "hi": "Main ni aana sheher tere",
+          "en": ""
+        },
+        {
+          "time": 142.08,
+          "hi": "Jo phere sang laage, rakhte woh hamko jala ke",
+          "en": ""
+        },
+        {
+          "time": 148.07,
+          "hi": "Wo waade, jhoothe waade le ja tu qasmein laga ke",
+          "en": ""
+        },
+        {
+          "time": 154.52,
+          "hi": "Rag-rag mein malanga hai ye ishq re",
+          "en": ""
+        },
+        {
+          "time": 160.53,
+          "hi": "Kyun lahoo mein hi ranga hai ye ishq re?",
+          "en": ""
+        },
+        {
+          "time": 165.72,
+          "hi": "Ho, bad-rang mein satranga hai ye ishq re",
+          "en": ""
+        },
+        {
+          "time": 172.41,
+          "hi": "Jogi main, aur Ganga hai ye ishq re",
+          "en": ""
+        },
+        {
+          "time": 204.39,
+          "hi": "Tu meri saari yaadein paani mein aaj baha de",
+          "en": ""
+        },
+        {
+          "time": 210.31,
+          "hi": "Ye teri bheegi aankhein rakh loon labon se laga ke",
+          "en": ""
+        },
+        {
+          "time": 216.83,
+          "hi": "Main samandar, parinda hai ye ishq re",
+          "en": ""
+        },
+        {
+          "time": 222.77,
+          "hi": "Man maatam aur zinda hai ye ishq re",
+          "en": ""
+        },
+        {
+          "time": 227.85,
+          "hi": "Ho, bad-rang mein satranga hai ye ishq re",
+          "en": ""
+        },
+        {
+          "time": 234.52,
+          "hi": "Jogi main, aur Ganga hai ye ishq re",
+          "en": ""
+        },
+        {
+          "time": 247.92,
+          "hi": "Bad-rang mein satranga hai ye ishq re",
+          "en": ""
+        },
+        {
+          "time": 260.28,
+          "hi": "Jogi main, aur Ganga hai ye ishq re",
+          "en": ""
+        }
       ]
     },
     {
@@ -41,12 +428,581 @@
       "videoId": "Iy9aw7SOVhA",
       "gradient": "linear-gradient(135deg, #0077b6, #023e8a)",
       "lyrics": [
-        { "time": 0, "hi": "Khalasi, khalasi, samandar ki leheron pe", "en": "Sailor, sailor, on the waves of the ocean" },
-        { "time": 15, "hi": "Chal diya dil mera apne ghar ko", "en": "My heart set off toward its home" },
-        { "time": 30, "hi": "Dhoondhe kinara, dhoondhe kinara", "en": "Searching for the shore, searching for the shore" },
-        { "time": 45, "hi": "Raah mein tera naam, raah mein tera chehra", "en": "Your name on the path, your face on the path" },
-        { "time": 60, "hi": "Khalasi, khalasi, le chal mujhe door", "en": "Sailor, sailor, take me far away" },
-        { "time": 75, "hi": "Jahan tu ho wahan mera ghar hai", "en": "Where you are, that is my home" }
+        {
+          "time": 5.26,
+          "hi": "Gotilo, tame gotilo gotilo gotilo",
+          "en": ""
+        },
+        {
+          "time": 8.45,
+          "hi": "Gotilo, tame gotilo gotilo gotilo",
+          "en": ""
+        },
+        {
+          "time": 10.39,
+          "hi": "Nathi je majhaama",
+          "en": ""
+        },
+        {
+          "time": 11.89,
+          "hi": "Khaali vaavataa dhajaa maa",
+          "en": ""
+        },
+        {
+          "time": 13.13,
+          "hi": "Evo haad no pravaasi gotilo",
+          "en": ""
+        },
+        {
+          "time": 15.4,
+          "hi": "Gotilo, tame gotilo gotilo gotilo",
+          "en": ""
+        },
+        {
+          "time": 17.87,
+          "hi": "Gotilo, tame gotilo gotilo gotilo",
+          "en": ""
+        },
+        {
+          "time": 20.89,
+          "hi": "Nathi je majhaama",
+          "en": ""
+        },
+        {
+          "time": 22.07,
+          "hi": "Khaali vaavataa dhajaa maa",
+          "en": ""
+        },
+        {
+          "time": 23.39,
+          "hi": "Evo haad no pravaasi gotilo",
+          "en": ""
+        },
+        {
+          "time": 25.94,
+          "hi": "Kaanthethi jaa tu jaa, dariye",
+          "en": ""
+        },
+        {
+          "time": 29.1,
+          "hi": "Dariye thi jaa tu jaa, taliye",
+          "en": ""
+        },
+        {
+          "time": 31.81,
+          "hi": "Kaanthethi jaa tu jaa",
+          "en": ""
+        },
+        {
+          "time": 33.69,
+          "hi": "Gotilo, tame gotilo gotilo gotilo, ohho",
+          "en": ""
+        },
+        {
+          "time": 37.01,
+          "hi": "Kaanthethi jaa tu jaa-jaa",
+          "en": ""
+        },
+        {
+          "time": 39.32,
+          "hi": "Dariye thi jaa tu jaa, taliye",
+          "en": ""
+        },
+        {
+          "time": 42.3,
+          "hi": "Kaanthethi jaa tu jaa",
+          "en": ""
+        },
+        {
+          "time": 44.03,
+          "hi": "Gotilo, tame gotilo gotilo gotilo",
+          "en": ""
+        },
+        {
+          "time": 46.85,
+          "hi": "Ae vehva do, vehva do, vehva do jyan vahiye",
+          "en": ""
+        },
+        {
+          "time": 51,
+          "hi": "Vehva do vehva do, vehva do",
+          "en": ""
+        },
+        {
+          "time": 52.52,
+          "hi": "Revaado, revaado, revaado jyaan chhaiye",
+          "en": ""
+        },
+        {
+          "time": 56.02,
+          "hi": "Revaado, revaado, revaado",
+          "en": ""
+        },
+        {
+          "time": 57.75,
+          "hi": "Vehva do, vehva do, vehva do, have",
+          "en": ""
+        },
+        {
+          "time": 60.22,
+          "hi": "Revaado, revaado, revaado, have",
+          "en": ""
+        },
+        {
+          "time": 62.66,
+          "hi": "Nathi je majhaama",
+          "en": ""
+        },
+        {
+          "time": 63.6,
+          "hi": "Khaali vaavataa dhajaa maa",
+          "en": ""
+        },
+        {
+          "time": 64.99,
+          "hi": "Evo haad no pravaasi gotilo",
+          "en": ""
+        },
+        {
+          "time": 67.55,
+          "hi": "Evo kon chhe khalaasi mane kaidone",
+          "en": ""
+        },
+        {
+          "time": 70.08,
+          "hi": "Enaa thaam ne thekaana mane daidone",
+          "en": ""
+        },
+        {
+          "time": 72.89,
+          "hi": "Evo kon chhe khalaasi mane kaidone",
+          "en": ""
+        },
+        {
+          "time": 75.15,
+          "hi": "Gotilo, tame gotilo gotilo gotilo",
+          "en": ""
+        },
+        {
+          "time": 78.14,
+          "hi": "Evo kon chhe khalaasi mane kaidone",
+          "en": ""
+        },
+        {
+          "time": 80.54,
+          "hi": "Enaa thaam ne thekaana mane daidone",
+          "en": ""
+        },
+        {
+          "time": 83.04,
+          "hi": "Evo kon chhe khalaasi mane kaidone",
+          "en": ""
+        },
+        {
+          "time": 85.64,
+          "hi": "Gotilo, tame gotilo gotilo gotilo",
+          "en": ""
+        },
+        {
+          "time": 89.48,
+          "hi": "Khevaiyaa, o khevaiyaa",
+          "en": ""
+        },
+        {
+          "time": 91.64,
+          "hi": "Hambo re hai, hai, haiyaa",
+          "en": ""
+        },
+        {
+          "time": 94.31,
+          "hi": "Niklijaa laine tu taari naiyaa",
+          "en": ""
+        },
+        {
+          "time": 96.97,
+          "hi": "Hambo re, hai, hai",
+          "en": ""
+        },
+        {
+          "time": 98.02,
+          "hi": "Hambo re hai, aye",
+          "en": ""
+        },
+        {
+          "time": 99.52,
+          "hi": "Khevaiyaa, o khevaiyaa",
+          "en": ""
+        },
+        {
+          "time": 102.04,
+          "hi": "Hambo re hai, hai, haiyaa",
+          "en": ""
+        },
+        {
+          "time": 104.86,
+          "hi": "Niklijaa laine tu taari naiyaa",
+          "en": ""
+        },
+        {
+          "time": 107.87,
+          "hi": "Hambo re, hambo re hai, hai, haiyaa",
+          "en": ""
+        },
+        {
+          "time": 109.59,
+          "hi": "Ae vehva do, vehva do, vehva do jyan vahiye",
+          "en": ""
+        },
+        {
+          "time": 113.38,
+          "hi": "Vehva do vehva do, vehva do",
+          "en": ""
+        },
+        {
+          "time": 115.12,
+          "hi": "Revaado, revaado, revaado jyaan chhaiye",
+          "en": ""
+        },
+        {
+          "time": 118.72,
+          "hi": "Revaado, revaado, revaado",
+          "en": ""
+        },
+        {
+          "time": 120.48,
+          "hi": "Vehva do, vehva do, vehva do, ahi",
+          "en": ""
+        },
+        {
+          "time": 122.78,
+          "hi": "Revaado, revaado, revaado, ahi",
+          "en": ""
+        },
+        {
+          "time": 125.1,
+          "hi": "Nathi je majhaama",
+          "en": ""
+        },
+        {
+          "time": 126.1,
+          "hi": "Khaali vaavataa dhajaa maa",
+          "en": ""
+        },
+        {
+          "time": 127.66,
+          "hi": "Evo haad no pravaasi gotilo",
+          "en": ""
+        },
+        {
+          "time": 130.03,
+          "hi": "Evo kon chhe khalaasi mane kaidone",
+          "en": ""
+        },
+        {
+          "time": 132.86,
+          "hi": "Enaa thaam ne thekaanaa mane daidone",
+          "en": ""
+        },
+        {
+          "time": 135.13,
+          "hi": "Evo kon chhe khalaasi mane kaidone",
+          "en": ""
+        },
+        {
+          "time": 137.95,
+          "hi": "Gotilo, tame gotilo gotilo gotilo",
+          "en": ""
+        },
+        {
+          "time": 140.46,
+          "hi": "Evo kon chhe khalaasi mane kaidone",
+          "en": ""
+        },
+        {
+          "time": 143.28,
+          "hi": "Enaa thaam ne thekaanaaane daidone",
+          "en": ""
+        },
+        {
+          "time": 145.87,
+          "hi": "Are, jadelu na shodhe",
+          "en": ""
+        },
+        {
+          "time": 147.36,
+          "hi": "Ane shodhelu na gote",
+          "en": ""
+        },
+        {
+          "time": 148.57,
+          "hi": "Evo khaarvo khalaasi goti lo",
+          "en": ""
+        },
+        {
+          "time": 151.36,
+          "hi": "Are, kinaaraa toh sthir ane salaamat hoy",
+          "en": ""
+        },
+        {
+          "time": 156.02,
+          "hi": "Pan maanas ena maate nathi sarjaano",
+          "en": ""
+        },
+        {
+          "time": 159.61,
+          "hi": "Arre kharvo khalasi toh ee kehvaay",
+          "en": ""
+        },
+        {
+          "time": 163.95,
+          "hi": "Ke je fanidhar naag jeva dariya ni haame utre",
+          "en": ""
+        },
+        {
+          "time": 167.54,
+          "hi": "Ane utarvu pade kaaranke",
+          "en": ""
+        },
+        {
+          "time": 172.08,
+          "hi": "Kinaare to Khaali pade naani naani pagli ne",
+          "en": ""
+        },
+        {
+          "time": 174.85,
+          "hi": "Naanaa eva sapnaa ni ret vaali dhagali ne",
+          "en": ""
+        },
+        {
+          "time": 177.59,
+          "hi": "Tofaano taraap maare",
+          "en": ""
+        },
+        {
+          "time": 179.12,
+          "hi": "Halesaao haanfi jaay",
+          "en": ""
+        },
+        {
+          "time": 180.18,
+          "hi": "Toy jeni himmat",
+          "en": ""
+        },
+        {
+          "time": 181.23,
+          "hi": "Ane haam nahi haanfe",
+          "en": ""
+        },
+        {
+          "time": 182.58,
+          "hi": "Evo khaarvo khalaasi",
+          "en": ""
+        },
+        {
+          "time": 183.85,
+          "hi": "Evo haadno pravaasi",
+          "en": ""
+        },
+        {
+          "time": 184.83,
+          "hi": "Evo khaarvo khalaasi",
+          "en": ""
+        },
+        {
+          "time": 186.17,
+          "hi": "Evo haadno pravaasi",
+          "en": ""
+        },
+        {
+          "time": 187.67,
+          "hi": "Gotilo, gotilo",
+          "en": ""
+        },
+        {
+          "time": 188.65,
+          "hi": "Gotilo, gotilo",
+          "en": ""
+        },
+        {
+          "time": 189.96,
+          "hi": "Gotilo, gotilo",
+          "en": ""
+        },
+        {
+          "time": 191.26,
+          "hi": "Gotilo, gotilo",
+          "en": ""
+        },
+        {
+          "time": 192.95,
+          "hi": "Potaanaa j dariyaamaa",
+          "en": ""
+        },
+        {
+          "time": 194.26,
+          "hi": "Potaanij dubkithi",
+          "en": ""
+        },
+        {
+          "time": 195.52,
+          "hi": "Jaatnu amulu moti lo",
+          "en": ""
+        },
+        {
+          "time": 198.09,
+          "hi": "Nathi je majhaama",
+          "en": ""
+        },
+        {
+          "time": 199.13,
+          "hi": "Khaali vaavataa dhajaa maa",
+          "en": ""
+        },
+        {
+          "time": 200.45,
+          "hi": "Evo haad no pravaasi gotilo",
+          "en": ""
+        },
+        {
+          "time": 203.24,
+          "hi": "Evo kon chhe khalaasi mane",
+          "en": ""
+        },
+        {
+          "time": 204.88,
+          "hi": "O khevaiyaa",
+          "en": ""
+        },
+        {
+          "time": 205.93,
+          "hi": "Evo kon chhe pravaasi mane",
+          "en": ""
+        },
+        {
+          "time": 207.22,
+          "hi": "Hai, hai, haiyaa",
+          "en": ""
+        },
+        {
+          "time": 208.74,
+          "hi": "Evo kon chhe khalaasi mane",
+          "en": ""
+        },
+        {
+          "time": 209.8,
+          "hi": "Laija naiyaa",
+          "en": ""
+        },
+        {
+          "time": 211.88,
+          "hi": "Gotilo, tame gotilo gotilo",
+          "en": ""
+        },
+        {
+          "time": 213.57,
+          "hi": "Evo kon chhe khalaasi mane",
+          "en": ""
+        },
+        {
+          "time": 215.22,
+          "hi": "Evo kon chhe pravaasi mane",
+          "en": ""
+        },
+        {
+          "time": 216.53,
+          "hi": "Hai, hai, haiyaa",
+          "en": ""
+        },
+        {
+          "time": 219.02,
+          "hi": "Evo kon chhe khalaasi mane",
+          "en": ""
+        },
+        {
+          "time": 220.31,
+          "hi": "Laija naiyaa",
+          "en": ""
+        },
+        {
+          "time": 221.69,
+          "hi": "Gotilo, tame gotilo gotilo",
+          "en": ""
+        },
+        {
+          "time": 224.21,
+          "hi": "Evo kon chhe khalaasi mane",
+          "en": ""
+        },
+        {
+          "time": 225.73,
+          "hi": "O khevaiyaa",
+          "en": ""
+        },
+        {
+          "time": 226.77,
+          "hi": "Evo kon chhe pravaasi mane",
+          "en": ""
+        },
+        {
+          "time": 228.05,
+          "hi": "Hai, hai, haiyaa",
+          "en": ""
+        },
+        {
+          "time": 229.52,
+          "hi": "Evo kon chhe khalaasi mane",
+          "en": ""
+        },
+        {
+          "time": 230.82,
+          "hi": "Laija naiyaa",
+          "en": ""
+        },
+        {
+          "time": 231.88,
+          "hi": "Gotilo, tame gotilo gotilo",
+          "en": ""
+        },
+        {
+          "time": 234.69,
+          "hi": "Evo kon chhe khalaasi mane",
+          "en": ""
+        },
+        {
+          "time": 235.9,
+          "hi": "O khevaiyaa",
+          "en": ""
+        },
+        {
+          "time": 237.23,
+          "hi": "Evo kon chhe pravaasi mane",
+          "en": ""
+        },
+        {
+          "time": 238.76,
+          "hi": "Hai, hai, haiyaa",
+          "en": ""
+        },
+        {
+          "time": 239.76,
+          "hi": "Nathi je majhaama",
+          "en": ""
+        },
+        {
+          "time": 240.89,
+          "hi": "Khaali vaavataa dhajaa maa",
+          "en": ""
+        },
+        {
+          "time": 242.32,
+          "hi": "Evo haad no pravaasi gotilo",
+          "en": ""
+        },
+        {
+          "time": 246.68,
+          "hi": "Ae, Gotilo, tame gotilo gotilo",
+          "en": ""
+        }
       ]
     },
     {
@@ -57,12 +1013,196 @@
       "videoId": "VAdGW7QDJiU",
       "gradient": "linear-gradient(135deg, #b5179e, #4361ee)",
       "lyrics": [
-        { "time": 0, "hi": "Chaleya chaleya, dil ke paas tu aaya", "en": "You came close to my heart" },
-        { "time": 14, "hi": "Jaane kyun, jaane kyun ye dil gaya", "en": "Don't know why, this heart fell for you" },
-        { "time": 28, "hi": "Teri baahon mein khoya sa main rahun", "en": "Let me stay lost in your arms" },
-        { "time": 42, "hi": "Har pal tera naam, har saans tera", "en": "Your name every moment, you in every breath" },
-        { "time": 56, "hi": "Chaleya chaleya, tere ishq mein main", "en": "I walked into your love" },
-        { "time": 70, "hi": "Tujhse juda ab kuch bhi na chahun", "en": "I want nothing apart from you now" }
+        {
+          "time": 11.04,
+          "hi": "Ishq mein dil bana hai",
+          "en": ""
+        },
+        {
+          "time": 13.41,
+          "hi": "Ishq mein dil fana hai, oh-oh-oh",
+          "en": ""
+        },
+        {
+          "time": 21.06,
+          "hi": "Mita de ya bana de",
+          "en": ""
+        },
+        {
+          "time": 23.58,
+          "hi": "Maine tujhko chuna hai, oh-oh-oh",
+          "en": ""
+        },
+        {
+          "time": 29.56,
+          "hi": "Tere saare rang odh ke, dang odh ke",
+          "en": ""
+        },
+        {
+          "time": 33.39,
+          "hi": "Tera hua main sab ko chhod ke, oh-oh-oh",
+          "en": ""
+        },
+        {
+          "time": 39.87,
+          "hi": "\"Ishq nahi karna naap-tol ke, raaz khol ke\"",
+          "en": ""
+        },
+        {
+          "time": 43.45,
+          "hi": "Aaya hoon main sab ko bol ke, oh-oh-oh",
+          "en": ""
+        },
+        {
+          "time": 50.28,
+          "hi": "Oh, main taan challiya teri or, tera challiya hai zor",
+          "en": ""
+        },
+        {
+          "time": 55.54,
+          "hi": "Tera hoya main, yaar ve, bhulliya ae sansaar ve",
+          "en": ""
+        },
+        {
+          "time": 60.92,
+          "hi": "Challiya teri or, tera challiya hai zor",
+          "en": ""
+        },
+        {
+          "time": 65.52,
+          "hi": "Tera hoya main, yaar ve, bhulliya ae sansaar ve",
+          "en": ""
+        },
+        {
+          "time": 72.98,
+          "hi": "Jag tere liye chhodeya, dil tere sang jodeya",
+          "en": ""
+        },
+        {
+          "time": 77.97,
+          "hi": "Ab tera main toh ho gaya, paake tujhe main kho gaya",
+          "en": ""
+        },
+        {
+          "time": 82.94,
+          "hi": "Jag tere liye chhodeya (chhodeya), dil tere sang jodeya (jodeya)",
+          "en": ""
+        },
+        {
+          "time": 87.96,
+          "hi": "Ab tera main toh ho gaya (ho gaya), paake tujhe main kho gaya, kho gaya, haan",
+          "en": ""
+        },
+        {
+          "time": 94.45,
+          "hi": "Ishq mein dil bana hai",
+          "en": ""
+        },
+        {
+          "time": 96.84,
+          "hi": "Ishq mein dil fana hai, oh-oh-oh",
+          "en": ""
+        },
+        {
+          "time": 104.3,
+          "hi": "Hansa de ya rula de",
+          "en": ""
+        },
+        {
+          "time": 106.96,
+          "hi": "Maine tujhko chuna hai, oh-oh-oh",
+          "en": ""
+        },
+        {
+          "time": 112.71,
+          "hi": "Duniya kehti, \"Ishq bhool hai, be-fizool hai\"",
+          "en": ""
+        },
+        {
+          "time": 116.87,
+          "hi": "Humko toh dil se qubool hai, oh-oh-oh",
+          "en": ""
+        },
+        {
+          "time": 122.93,
+          "hi": "Tujhmein dikhta Rab ka noor hai, ek suroor hai",
+          "en": ""
+        },
+        {
+          "time": 126.88,
+          "hi": "Tu hai apna, yeh ghuroor hai, oh-oh-oh",
+          "en": ""
+        },
+        {
+          "time": 133.51,
+          "hi": "Ve main taan challiya teri or, tera challiya hai zor",
+          "en": ""
+        },
+        {
+          "time": 138.94,
+          "hi": "Teri hoyi main, yaar ve, bhulliya ae sansaar ve",
+          "en": ""
+        },
+        {
+          "time": 144.22,
+          "hi": "Challiya teri or, tera challiya hai zor",
+          "en": ""
+        },
+        {
+          "time": 149.01,
+          "hi": "Teri hoyi main, yaar ve, bhulliya ae sansaar ve",
+          "en": ""
+        },
+        {
+          "time": 153.96,
+          "hi": "Tu ishq-e-khwaab, khwaab sa hai, mera be-hisaab sa hai",
+          "en": ""
+        },
+        {
+          "time": 159.06,
+          "hi": "Tere lafz choom loon main, Urdu ki kitaab sa hai",
+          "en": ""
+        },
+        {
+          "time": 164.15,
+          "hi": "Ishq-e-khwaab khwaab sa hai, mera be-hisaab sa hai",
+          "en": ""
+        },
+        {
+          "time": 169.41,
+          "hi": "Tere lafz choom loon main, Urdu ki kitaab sa hai",
+          "en": ""
+        },
+        {
+          "time": 174.07,
+          "hi": "Jag tere liye chhodeya (Ishq mein dil bana hai)",
+          "en": ""
+        },
+        {
+          "time": 176.32,
+          "hi": "Dil tere sang jodeya (Ishq mein dil fana hai, ohh)",
+          "en": ""
+        },
+        {
+          "time": 178.99,
+          "hi": "Ab tera main toh ho gaya, paake tujhe main kho gaya",
+          "en": ""
+        },
+        {
+          "time": 183.93,
+          "hi": "Jag tere liye chhodeya (Mita de ya bana de)",
+          "en": ""
+        },
+        {
+          "time": 186.42,
+          "hi": "Dil tere sang jodeya (Maine tujhko chuna hai, oh-oh-oh)",
+          "en": ""
+        },
+        {
+          "time": 189.07,
+          "hi": "Ab tera main toh ho gaya, paake tujhe main kho gaya, kho gaya, haan",
+          "en": ""
+        }
       ]
     },
     {
@@ -73,12 +1213,196 @@
       "videoId": "Etkd-07gnxM",
       "gradient": "linear-gradient(135deg, #2d6a4f, #52b788)",
       "lyrics": [
-        { "time": 0, "hi": "O Maahi, O Maahi, tera mera rishta purana", "en": "O Maahi, our bond is old and deep" },
-        { "time": 16, "hi": "Dil se dil ka jo hai silsila", "en": "The thread that ties heart to heart" },
-        { "time": 32, "hi": "Tujh bin jeena ab mushkil sa lagta", "en": "Living without you feels impossible now" },
-        { "time": 48, "hi": "Teri yaadon mein khoya rehta hoon", "en": "I stay lost in memories of you" },
-        { "time": 64, "hi": "O Maahi, O Maahi, tu hi meri duniya", "en": "O Maahi, you are my whole world" },
-        { "time": 80, "hi": "Saath tera chahun har pal har lamha", "en": "I want you with me every moment" }
+        {
+          "time": 16.32,
+          "hi": "Yaara, teri kahaani mein ho zikr mera",
+          "en": ""
+        },
+        {
+          "time": 24.54,
+          "hi": "Kahin teri khaamoshi mein ho fikr mera",
+          "en": ""
+        },
+        {
+          "time": 32.89,
+          "hi": "Rukh tera jidhar ka ho, ho udhar mera",
+          "en": ""
+        },
+        {
+          "time": 40.95,
+          "hi": "Teri baahon talak hi hai yeh safar mera",
+          "en": ""
+        },
+        {
+          "time": 49.78,
+          "hi": "O, maahi, o, maahi, o, maahi, o, maahi",
+          "en": ""
+        },
+        {
+          "time": 53.84,
+          "hi": "O, maahi, o, maahi, o, maahi, o, maahi",
+          "en": ""
+        },
+        {
+          "time": 58.04,
+          "hi": "Meri wafa pe haq hua tera",
+          "en": ""
+        },
+        {
+          "time": 64.49,
+          "hi": "O, maahi-maahi ve",
+          "en": ""
+        },
+        {
+          "time": 66.09,
+          "hi": "O, maahi, o, maahi, o, maahi, o, maahi",
+          "en": ""
+        },
+        {
+          "time": 70.25,
+          "hi": "O, maahi, o, maahi, o, maahi, o, maahi",
+          "en": ""
+        },
+        {
+          "time": 74.54,
+          "hi": "Lo, main qayamat tak hua tera",
+          "en": ""
+        },
+        {
+          "time": 82.81,
+          "hi": "Lo, main qayamat tak hua tera",
+          "en": ""
+        },
+        {
+          "time": 107.03,
+          "hi": "Mmm, baaton ko behne do, baahon mein rehne do",
+          "en": ""
+        },
+        {
+          "time": 111.36,
+          "hi": "Hai sukoon inmein",
+          "en": ""
+        },
+        {
+          "time": 115.65,
+          "hi": "Raste wo begaane, jhoothe wo afsaane",
+          "en": ""
+        },
+        {
+          "time": 119.55,
+          "hi": "Tu na ho jinmein",
+          "en": ""
+        },
+        {
+          "time": 123,
+          "hi": "Ho, thodi umar hai, pyaar zyada mera",
+          "en": ""
+        },
+        {
+          "time": 127.96,
+          "hi": "Kaise, bata, yeh saara tera hoga?",
+          "en": ""
+        },
+        {
+          "time": 131.81,
+          "hi": "Maine mujhe hai tujhko saumpna",
+          "en": ""
+        },
+        {
+          "time": 139.89,
+          "hi": "Aahon pe, baahon pe, raahon, panaahon pe",
+          "en": ""
+        },
+        {
+          "time": 143.97,
+          "hi": "Aahon pe, baahon pe, saahon, salaahon pe",
+          "en": ""
+        },
+        {
+          "time": 148.38,
+          "hi": "Mere ishq pe haq hua tera",
+          "en": ""
+        },
+        {
+          "time": 153.98,
+          "hi": "O, maahi-maahi ve",
+          "en": ""
+        },
+        {
+          "time": 156.32,
+          "hi": "O, maahi, o, maahi, o, maahi, o, maahi",
+          "en": ""
+        },
+        {
+          "time": 160.63,
+          "hi": "O, maahi, o, maahi, o, maahi, o, maahi",
+          "en": ""
+        },
+        {
+          "time": 164.77,
+          "hi": "Lo, main qayamat tak hua tera",
+          "en": ""
+        },
+        {
+          "time": 170.96,
+          "hi": "O, maahi-maahi ve",
+          "en": ""
+        },
+        {
+          "time": 172.74,
+          "hi": "O, maahi, o, maahi, o, maahi, o, maahi",
+          "en": ""
+        },
+        {
+          "time": 176.96,
+          "hi": "O, maahi, o, maahi, o, maahi, o, maahi",
+          "en": ""
+        },
+        {
+          "time": 181.31,
+          "hi": "Meri wafa pe haq hua tera",
+          "en": ""
+        },
+        {
+          "time": 189.66,
+          "hi": "Lo, main qayamat tak hua tera",
+          "en": ""
+        },
+        {
+          "time": 197.68,
+          "hi": "Lo, main qayamat tak hua tera",
+          "en": ""
+        },
+        {
+          "time": 201.76,
+          "hi": "Lo, main qayamat tak hua tera",
+          "en": ""
+        },
+        {
+          "time": 205.95,
+          "hi": "Mere ishq pe haq hua tera",
+          "en": ""
+        },
+        {
+          "time": 209.83,
+          "hi": "Lo, main qayamat tak hua tera",
+          "en": ""
+        },
+        {
+          "time": 213.84,
+          "hi": "O, maahi",
+          "en": ""
+        },
+        {
+          "time": 218.4,
+          "hi": "Maahi re",
+          "en": ""
+        },
+        {
+          "time": 221.68,
+          "hi": "O, maahi re",
+          "en": ""
+        }
       ]
     },
     {
@@ -88,7 +1412,183 @@
       "album": "Brahmastra",
       "videoId": "BddP6PYo2gs",
       "gradient": "linear-gradient(135deg, #e8a87c, #e07a5f)",
-      "lyrics": []
+      "lyrics": [
+        {
+          "time": 9.63,
+          "hi": "Mujhko itna bataaye koyi",
+          "en": ""
+        },
+        {
+          "time": 19.08,
+          "hi": "Kaise tujh se dil na lagaaye koyi",
+          "en": ""
+        },
+        {
+          "time": 29.96,
+          "hi": "Rabba ne tujhko banaane mein",
+          "en": ""
+        },
+        {
+          "time": 34.19,
+          "hi": "Kar di hain husn ki khali tijoriyaan",
+          "en": ""
+        },
+        {
+          "time": 40.14,
+          "hi": "Kaajal ki siyaahi se likhi",
+          "en": ""
+        },
+        {
+          "time": 44.3,
+          "hi": "Hain tune jaane kitno ki love storiyan",
+          "en": ""
+        },
+        {
+          "time": 49.48,
+          "hi": "Kesariya tera ishq hai, piya",
+          "en": ""
+        },
+        {
+          "time": 54.19,
+          "hi": "Rang jaaun jo main haath lagaaun",
+          "en": ""
+        },
+        {
+          "time": 58.38,
+          "hi": "Din beete saara teri fikr mein",
+          "en": ""
+        },
+        {
+          "time": 63.2,
+          "hi": "Rain saari teri khair manaaun",
+          "en": ""
+        },
+        {
+          "time": 69.83,
+          "hi": "Kesariya tera ishq hai, piya",
+          "en": ""
+        },
+        {
+          "time": 74.68,
+          "hi": "Rang jaaun jo main haath lagaaun",
+          "en": ""
+        },
+        {
+          "time": 78.87,
+          "hi": "Din beete saara teri fikr mein",
+          "en": ""
+        },
+        {
+          "time": 83.56,
+          "hi": "Rain saari teri khair manaaun",
+          "en": ""
+        },
+        {
+          "time": 117.71,
+          "hi": "Patjhad ke mausam mein bhi rangi chanaaron jaisi",
+          "en": ""
+        },
+        {
+          "time": 122.84,
+          "hi": "Jhanke sannaaton mein tu veena ke taaron jaisi",
+          "en": ""
+        },
+        {
+          "time": 132.32,
+          "hi": "Mmm, sadiyon se bhi lambi ye mann ki amaavasein hain",
+          "en": ""
+        },
+        {
+          "time": 138.27,
+          "hi": "Aur tu phuljhadiyon waale tyohaaron jaisi",
+          "en": ""
+        },
+        {
+          "time": 142.21,
+          "hi": "Chanda bhi deewaana hai tera",
+          "en": ""
+        },
+        {
+          "time": 146.56,
+          "hi": "Jalti hain tujhse saari chakoriyaan",
+          "en": ""
+        },
+        {
+          "time": 152.49,
+          "hi": "Kaajal ki siyaahi se likhi",
+          "en": ""
+        },
+        {
+          "time": 156.64,
+          "hi": "Hain tune jaane kitnon ki love storiyan",
+          "en": ""
+        },
+        {
+          "time": 164.3,
+          "hi": "Kesariya tera ishq hai, piya",
+          "en": ""
+        },
+        {
+          "time": 169.05,
+          "hi": "Rang jaaun jo main haath lagaaun",
+          "en": ""
+        },
+        {
+          "time": 173.27,
+          "hi": "Din beete saara teri fikr mein",
+          "en": ""
+        },
+        {
+          "time": 178.11,
+          "hi": "Rain saari teri khair manaaun",
+          "en": ""
+        },
+        {
+          "time": 184.78,
+          "hi": "Kesariya tera ishq hai, piya",
+          "en": ""
+        },
+        {
+          "time": 189.57,
+          "hi": "Rang jaaun jo main haath lagaaun",
+          "en": ""
+        },
+        {
+          "time": 193.8,
+          "hi": "Din beete saara teri fikr mein",
+          "en": ""
+        },
+        {
+          "time": 198.41,
+          "hi": "Rain saari teri khair manaaun",
+          "en": ""
+        },
+        {
+          "time": 212.8,
+          "hi": "Kesariya tera ishq hai, piya, ishq hai, piya",
+          "en": ""
+        },
+        {
+          "time": 218.03,
+          "hi": "Kesariya tera ishq hai, piya, ishq hai, piya",
+          "en": ""
+        },
+        {
+          "time": 222.89,
+          "hi": "Piya, ishq hai, piya, ishq hai, piya",
+          "en": ""
+        },
+        {
+          "time": 230.97,
+          "hi": "Kesariya tera ishq hai, piya",
+          "en": ""
+        },
+        {
+          "time": 244.12,
+          "hi": "Rang jaaun jo main haath lagaaun",
+          "en": ""
+        }
+      ]
     },
     {
       "id": 7,
@@ -97,7 +1597,188 @@
       "album": "Bhediya",
       "videoId": "ElZfdU54Cp8",
       "gradient": "linear-gradient(135deg, #1e9e9e, #1565c0)",
-      "lyrics": []
+      "lyrics": [
+        {
+          "time": 21.98,
+          "hi": "Tu mera koi na hoke bhi kuch laage",
+          "en": ""
+        },
+        {
+          "time": 27.25,
+          "hi": "Tu mera koi na hoke bhi kuch laage",
+          "en": ""
+        },
+        {
+          "time": 32.25,
+          "hi": "Kiya re jo bhi tune, kaise kiya re?",
+          "en": ""
+        },
+        {
+          "time": 37.39,
+          "hi": "Jiya ko mere baandh aise liya re",
+          "en": ""
+        },
+        {
+          "time": 42.44,
+          "hi": "Samajh ke bhi na samajh main sakoon",
+          "en": ""
+        },
+        {
+          "time": 47.41,
+          "hi": "Saveron ka mere tu suraj laage",
+          "en": ""
+        },
+        {
+          "time": 52.79,
+          "hi": "Tu mera koi na hoke bhi kuch laage",
+          "en": ""
+        },
+        {
+          "time": 57.75,
+          "hi": "Tu mera koi na hoke bhi kuch laage",
+          "en": ""
+        },
+        {
+          "time": 62.82,
+          "hi": "Tu mera koi na hoke bhi kuch laage",
+          "en": ""
+        },
+        {
+          "time": 69.92,
+          "hi": "Apna bana le, piya, apna bana le, piya",
+          "en": ""
+        },
+        {
+          "time": 74.94,
+          "hi": "Apna bana le mujhe, apna bana le, piya",
+          "en": ""
+        },
+        {
+          "time": 80.18,
+          "hi": "Apna bana le, piya, apna bana le, piya",
+          "en": ""
+        },
+        {
+          "time": 85.24,
+          "hi": "Dil ke nagar mein shahar tu basa le, piya",
+          "en": ""
+        },
+        {
+          "time": 113.48,
+          "hi": "Chhoone se tere, haan, tere, haan, tere",
+          "en": ""
+        },
+        {
+          "time": 118.44,
+          "hi": "Pheeki ruton ko rang lage",
+          "en": ""
+        },
+        {
+          "time": 126.64,
+          "hi": "Mmm, chhoone se tere, haan, tere, haan, tere",
+          "en": ""
+        },
+        {
+          "time": 133.89,
+          "hi": "Pheeki ruton ko rang lage",
+          "en": ""
+        },
+        {
+          "time": 139.09,
+          "hi": "Teri disha mein kyun chalne se mere",
+          "en": ""
+        },
+        {
+          "time": 144.15,
+          "hi": "Pairon ko pankh lage?",
+          "en": ""
+        },
+        {
+          "time": 147.04,
+          "hi": "Raha na mere kaam ka jag saara",
+          "en": ""
+        },
+        {
+          "time": 152.01,
+          "hi": "Ho bas tere naam se hi guzaara",
+          "en": ""
+        },
+        {
+          "time": 157.33,
+          "hi": "Ulajh ke yun na sulajh main sakoon",
+          "en": ""
+        },
+        {
+          "time": 164.96,
+          "hi": "Zubaniyan teri jhoothi bhi sach lage",
+          "en": ""
+        },
+        {
+          "time": 170.05,
+          "hi": "Tu mera koi na hoke bhi kuch laage",
+          "en": ""
+        },
+        {
+          "time": 175.05,
+          "hi": "Tu mera koi na hoke bhi kuch laage",
+          "en": ""
+        },
+        {
+          "time": 180.3,
+          "hi": "Tu mera koi na hoke bhi kuch laage",
+          "en": ""
+        },
+        {
+          "time": 187.36,
+          "hi": "Apna bana le, piya, apna bana le, piya",
+          "en": ""
+        },
+        {
+          "time": 192.3,
+          "hi": "Apna bana le mujhe, apna bana le, piya",
+          "en": ""
+        },
+        {
+          "time": 197.49,
+          "hi": "Apna bana le, piya, apna bana le, piya",
+          "en": ""
+        },
+        {
+          "time": 202.56,
+          "hi": "Dil ke nagar mein shahar tu basa le, piya",
+          "en": ""
+        },
+        {
+          "time": 207.68,
+          "hi": "O, sab kuch mera chahe naam apne likha le",
+          "en": ""
+        },
+        {
+          "time": 219.17,
+          "hi": "Badle mein itni to yaari nibha le",
+          "en": ""
+        },
+        {
+          "time": 229.52,
+          "hi": "Jag ki hiraasat se mujhko chhuda le",
+          "en": ""
+        },
+        {
+          "time": 238.22,
+          "hi": "Apna bana le, bas apna bana le",
+          "en": ""
+        },
+        {
+          "time": 247.87,
+          "hi": "Apna bana le",
+          "en": ""
+        },
+        {
+          "time": 252.96,
+          "hi": "Apna bana le",
+          "en": ""
+        }
+      ]
     },
     {
       "id": 8,
@@ -106,7 +1787,258 @@
       "album": "Coke Studio Season 14",
       "videoId": "5Eqb_-j3FDA",
       "gradient": "linear-gradient(135deg, #ff7e67, #ffb86b)",
-      "lyrics": []
+      "lyrics": [
+        {
+          "time": 5.58,
+          "hi": "Agg lavaan majboori nu",
+          "en": ""
+        },
+        {
+          "time": 8.17,
+          "hi": "Aan jaan di bhasoori nu",
+          "en": ""
+        },
+        {
+          "time": 10.89,
+          "hi": "Zehar bane, haan, teri",
+          "en": ""
+        },
+        {
+          "time": 13.31,
+          "hi": "Pee jawaan main poori nu",
+          "en": ""
+        },
+        {
+          "time": 16.11,
+          "hi": "Aana si, oh nai aaya",
+          "en": ""
+        },
+        {
+          "time": 18.23,
+          "hi": "Dil baang baang mera takraya",
+          "en": ""
+        },
+        {
+          "time": 21.19,
+          "hi": "Kaaga bol ke das jaave",
+          "en": ""
+        },
+        {
+          "time": 23.76,
+          "hi": "Paavaan giu di choori nu",
+          "en": ""
+        },
+        {
+          "time": 26.42,
+          "hi": "Raahan che, baanhwaan che oh nu lukaawan",
+          "en": ""
+        },
+        {
+          "time": 28.73,
+          "hi": "Koi mainu na roke",
+          "en": ""
+        },
+        {
+          "time": 31.45,
+          "hi": "Mere dhol, judaaiyaan di tainu khabar kiwen howe?",
+          "en": ""
+        },
+        {
+          "time": 36.61,
+          "hi": "Aajaave dil tera, poora vi na howe",
+          "en": ""
+        },
+        {
+          "time": 41.61,
+          "hi": "Haan, baniya banaiyaan di gal baat kiwen howe?",
+          "en": ""
+        },
+        {
+          "time": 47.04,
+          "hi": "Aajaave dil tera, poora vi na howe",
+          "en": ""
+        },
+        {
+          "time": 52.48,
+          "hi": "Bhul gayi majboori nu",
+          "en": ""
+        },
+        {
+          "time": 55.2,
+          "hi": "Duniya di dastoori nu",
+          "en": ""
+        },
+        {
+          "time": 60.52,
+          "hi": "Saath tera hai bathera",
+          "en": ""
+        },
+        {
+          "time": 63.27,
+          "hi": "Poora kar zaroori nu",
+          "en": ""
+        },
+        {
+          "time": 65.81,
+          "hi": "Aana si, oh nai aaya",
+          "en": ""
+        },
+        {
+          "time": 68.43,
+          "hi": "Raasta na dikhlaaya",
+          "en": ""
+        },
+        {
+          "time": 70.92,
+          "hi": "Dil hamaara de sahaara",
+          "en": ""
+        },
+        {
+          "time": 73.63,
+          "hi": "Khwaahishaat adhoori nu",
+          "en": ""
+        },
+        {
+          "time": 76.01,
+          "hi": "Vaari main jaawaan, main tainu bulaawaan",
+          "en": ""
+        },
+        {
+          "time": 78.34,
+          "hi": "Gal saari taan howe",
+          "en": ""
+        },
+        {
+          "time": 80.98,
+          "hi": "Mere dhol, judaaiyaan di tainu khabar kiwen howe?",
+          "en": ""
+        },
+        {
+          "time": 86.1,
+          "hi": "Aajaave dil tera, poora vi na howe",
+          "en": ""
+        },
+        {
+          "time": 91.08,
+          "hi": "Haan, baniya banaiyaan di gal baat kiwen howe?",
+          "en": ""
+        },
+        {
+          "time": 96.58,
+          "hi": "Aajaave dil tera, poora vi na howe",
+          "en": ""
+        },
+        {
+          "time": 103.18,
+          "hi": "Mere dhol, judaaiyaan di sardari na howe",
+          "en": ""
+        },
+        {
+          "time": 117.34,
+          "hi": "Mere dhol, judaaiyaan di...",
+          "en": ""
+        },
+        {
+          "time": 133.09,
+          "hi": "Mere dhol, judaaiyaan di sardari na howe",
+          "en": ""
+        },
+        {
+          "time": 138.34,
+          "hi": "Dildaaraan di, sabh yaaraan di azaari na howe",
+          "en": ""
+        },
+        {
+          "time": 143.52,
+          "hi": "Dildaaraan di, sabh yaaraan di azaari na howe",
+          "en": ""
+        },
+        {
+          "time": 149.2,
+          "hi": "Aa chalein leke tujhe",
+          "en": ""
+        },
+        {
+          "time": 154.25,
+          "hi": "Hain jahan silsile",
+          "en": ""
+        },
+        {
+          "time": 159.12,
+          "hi": "Tu hai wohi hai teri kami",
+          "en": ""
+        },
+        {
+          "time": 164.32,
+          "hi": "Bana de, saja de, panaah de humein",
+          "en": ""
+        },
+        {
+          "time": 169.64,
+          "hi": "Bana de, saja de, panaah de humein",
+          "en": ""
+        },
+        {
+          "time": 174.48,
+          "hi": "Agg lavaan majboori nu",
+          "en": ""
+        },
+        {
+          "time": 180.44,
+          "hi": "Aan jaan di bhasoori nu",
+          "en": ""
+        },
+        {
+          "time": 183.18,
+          "hi": "Zehar bane, haan, teri",
+          "en": ""
+        },
+        {
+          "time": 185.54,
+          "hi": "Pee jawaan main poori nu",
+          "en": ""
+        },
+        {
+          "time": 188.14,
+          "hi": "Raahan che, baanhwaan che oh nu lukaawan",
+          "en": ""
+        },
+        {
+          "time": 190.39,
+          "hi": "Koi mainu na roke",
+          "en": ""
+        },
+        {
+          "time": 193.19,
+          "hi": "Mere dhol, judaaiyaan di tainu khabar kiwen howe?",
+          "en": ""
+        },
+        {
+          "time": 198.25,
+          "hi": "Aajaave dil tera, poora vi na howe",
+          "en": ""
+        },
+        {
+          "time": 203.44,
+          "hi": "Haan, baniya banaiyaan di gal baat kiwen howe?",
+          "en": ""
+        },
+        {
+          "time": 208.71,
+          "hi": "Aajaave dil tera, poora vi na howe",
+          "en": ""
+        },
+        {
+          "time": 214.03,
+          "hi": "Poora vi na howe",
+          "en": ""
+        },
+        {
+          "time": 216.66,
+          "hi": "Poora vi na howe",
+          "en": ""
+        }
+      ]
     },
     {
       "id": 9,
@@ -115,7 +2047,283 @@
       "album": "Pathaan",
       "videoId": "AU9AdGIdWZs",
       "gradient": "linear-gradient(135deg, #ff5e3a, #ff2e63)",
-      "lyrics": []
+      "lyrics": [
+        {
+          "time": 26.77,
+          "hi": "Tumne mohabbat karni hai",
+          "en": ""
+        },
+        {
+          "time": 29.08,
+          "hi": "Humne mohabbat ki hai",
+          "en": ""
+        },
+        {
+          "time": 31.11,
+          "hi": "Iss dil ke ilaawa kisi se bhi na",
+          "en": ""
+        },
+        {
+          "time": 33.67,
+          "hi": "Humne ijaazat li hai",
+          "en": ""
+        },
+        {
+          "time": 40.41,
+          "hi": "Hunar hai yeh bhi ishq ka",
+          "en": ""
+        },
+        {
+          "time": 42.75,
+          "hi": "Kisi-kisi ko aata hai",
+          "en": ""
+        },
+        {
+          "time": 45.04,
+          "hi": "Jaan luta ke dushman ki",
+          "en": ""
+        },
+        {
+          "time": 47.35,
+          "hi": "Humne hifaazat ki hai",
+          "en": ""
+        },
+        {
+          "time": 53.47,
+          "hi": "Baat karte hain hazaaron (hazaaron)",
+          "en": ""
+        },
+        {
+          "time": 58.07,
+          "hi": "Hai tajurba humein, yaaron (haan, yaaron)",
+          "en": ""
+        },
+        {
+          "time": 62.64,
+          "hi": "Baat karte hain hazaaron",
+          "en": ""
+        },
+        {
+          "time": 64.97,
+          "hi": "Hai tajurba humein, yaaron",
+          "en": ""
+        },
+        {
+          "time": 67.28,
+          "hi": "Aisi hai (ada) baandh loon (hawa)",
+          "en": ""
+        },
+        {
+          "time": 69.58,
+          "hi": "Mujh pe woh (Khuda dil se dua barsaye)",
+          "en": ""
+        },
+        {
+          "time": 72.43,
+          "hi": "Jhoome jo Pathaan, meri jaan",
+          "en": ""
+        },
+        {
+          "time": 75.23,
+          "hi": "Mehfil hi lut jaaye",
+          "en": ""
+        },
+        {
+          "time": 77.08,
+          "hi": "De-de jo zubaan, meri jaan",
+          "en": ""
+        },
+        {
+          "time": 79.87,
+          "hi": "Uss pe mar-mit jaaye",
+          "en": ""
+        },
+        {
+          "time": 90.72,
+          "hi": "Jhoome jo Pathaan, meri jaan",
+          "en": ""
+        },
+        {
+          "time": 93.57,
+          "hi": "Mehfil hi lut jaaye",
+          "en": ""
+        },
+        {
+          "time": 95.32,
+          "hi": "De-de jo zubaan, meri jaan",
+          "en": ""
+        },
+        {
+          "time": 98.26,
+          "hi": "Uss pe mar-mit jaaye",
+          "en": ""
+        },
+        {
+          "time": 104.9,
+          "hi": "Pa dha pa dha ma pa, pa dha pa dha ma pa",
+          "en": ""
+        },
+        {
+          "time": 107.27,
+          "hi": "Ga pa ma dha ni ga re sa ga re ma",
+          "en": ""
+        },
+        {
+          "time": 109.53,
+          "hi": "Pa dha pa dha ma pa, pa dha pa dha ma pa",
+          "en": ""
+        },
+        {
+          "time": 111.86,
+          "hi": "Ga pa ma dha ma ga re ga re sa",
+          "en": ""
+        },
+        {
+          "time": 117.36,
+          "hi": "Muqaabla kaise hum karte hain, yaar",
+          "en": ""
+        },
+        {
+          "time": 121.01,
+          "hi": "Ab ki baar tareeqa hum batayenge",
+          "en": ""
+        },
+        {
+          "time": 124.39,
+          "hi": "Tareeqa hum batayenge",
+          "en": ""
+        },
+        {
+          "time": 126.63,
+          "hi": "Kaise dushman pe hum marte hain, yaar",
+          "en": ""
+        },
+        {
+          "time": 130.22,
+          "hi": "Ab ki baar tareeqa hum batayenge",
+          "en": ""
+        },
+        {
+          "time": 133.47,
+          "hi": "Tareeqa hum batayenge",
+          "en": ""
+        },
+        {
+          "time": 135.72,
+          "hi": "Yaar kar de jo ishara (ishara)",
+          "en": ""
+        },
+        {
+          "time": 140.33,
+          "hi": "Dil main de doon dobara (dobara)",
+          "en": ""
+        },
+        {
+          "time": 144.94,
+          "hi": "Yaar kar de jo ishara",
+          "en": ""
+        },
+        {
+          "time": 147.14,
+          "hi": "Dil main de doon dobara",
+          "en": ""
+        },
+        {
+          "time": 149.5,
+          "hi": "Pyaar ka (nasha) aisa hai (chadha)",
+          "en": ""
+        },
+        {
+          "time": 151.69,
+          "hi": "Hoke yoon (fida dushman gale lag jaaye)",
+          "en": ""
+        },
+        {
+          "time": 154.89,
+          "hi": "(Jaaye-jaaye-jaaye-jaaye)",
+          "en": ""
+        },
+        {
+          "time": 161.66,
+          "hi": "Jhoome jo Pathaan, meri jaan",
+          "en": ""
+        },
+        {
+          "time": 164.46,
+          "hi": "Mehfil hi lut jaaye",
+          "en": ""
+        },
+        {
+          "time": 166.23,
+          "hi": "De-de jo zubaan, meri jaan",
+          "en": ""
+        },
+        {
+          "time": 169.04,
+          "hi": "Uss pe mar-mit jaaye",
+          "en": ""
+        },
+        {
+          "time": 179.94,
+          "hi": "Jhoome jo Pathaan, meri jaan",
+          "en": ""
+        },
+        {
+          "time": 182.72,
+          "hi": "Mehfil hi lut jaaye",
+          "en": ""
+        },
+        {
+          "time": 184.47,
+          "hi": "De-de jo zubaan, meri jaan",
+          "en": ""
+        },
+        {
+          "time": 187.38,
+          "hi": "Uss pe mar-mit jaaye",
+          "en": ""
+        },
+        {
+          "time": 189,
+          "hi": "Jhoome jo Pathaan, meri jaan",
+          "en": ""
+        },
+        {
+          "time": 191.94,
+          "hi": "Mehfil hi lut jaaye",
+          "en": ""
+        },
+        {
+          "time": 193.6,
+          "hi": "De-de jo zubaan, meri jaan",
+          "en": ""
+        },
+        {
+          "time": 196.57,
+          "hi": "Uss pe mar-mit jaaye",
+          "en": ""
+        },
+        {
+          "time": 198.66,
+          "hi": "Pa dha pa dha ma pa, pa dha pa dha ma pa",
+          "en": ""
+        },
+        {
+          "time": 200.97,
+          "hi": "Ga pa ma dha ni ga re sa ga re ma",
+          "en": ""
+        },
+        {
+          "time": 203.27,
+          "hi": "Pa dha pa dha ma pa, pa dha pa dha ma pa",
+          "en": ""
+        },
+        {
+          "time": 205.53,
+          "hi": "Ga pa ma dha ma ga re ga re sa",
+          "en": ""
+        }
+      ]
     },
     {
       "id": 10,
@@ -124,25 +2332,158 @@
       "album": "Heeriye",
       "videoId": "RLzC55ai0eo",
       "gradient": "linear-gradient(135deg, #7f5af0, #6246ea)",
-      "lyrics": []
-    },
-    {
-      "id": 11,
-      "title": "Raataan Lambiyan",
-      "artist": "Jubin Nautiyal, Tanishk Bagchi",
-      "album": "Shershaah",
-      "videoId": "RxivQmJnKjY",
-      "gradient": "linear-gradient(135deg, #f76b8a, #e0568d)",
-      "lyrics": []
-    },
-    {
-      "id": 12,
-      "title": "Besharam Rang",
-      "artist": "Shilpa Rao, Vishal-Shekhar",
-      "album": "Pathaan",
-      "videoId": "wxKs1JuMBeY",
-      "gradient": "linear-gradient(135deg, #f4a300, #c62828)",
-      "lyrics": []
+      "lyrics": [
+        {
+          "time": 18.85,
+          "hi": "Heeriye-heeriye, aa",
+          "en": ""
+        },
+        {
+          "time": 23.24,
+          "hi": "Heeriye-heeriye, aa",
+          "en": ""
+        },
+        {
+          "time": 27.08,
+          "hi": "Teri hoke maran, jind-jaan karan",
+          "en": ""
+        },
+        {
+          "time": 31.73,
+          "hi": "Teri hoke maran, jind-jaan karan",
+          "en": ""
+        },
+        {
+          "time": 36.73,
+          "hi": "Heeriye-heeriye, aa",
+          "en": ""
+        },
+        {
+          "time": 41.44,
+          "hi": "Heeriye-heeriye, aa",
+          "en": ""
+        },
+        {
+          "time": 64.5,
+          "hi": "Neendan vi tut-tut gayian, chundi main taare rahiyan",
+          "en": ""
+        },
+        {
+          "time": 69.18,
+          "hi": "Sochan vich teriyan paiyan, haaniya",
+          "en": ""
+        },
+        {
+          "time": 73.67,
+          "hi": "Saari-saari raat jagave, yaadan nu zikr tera ve",
+          "en": ""
+        },
+        {
+          "time": 78.62,
+          "hi": "Aaye, kyun na aaye subah ve, haaniya?",
+          "en": ""
+        },
+        {
+          "time": 82.53,
+          "hi": "Teri hoke maran, jind-jaan karan",
+          "en": ""
+        },
+        {
+          "time": 86.62,
+          "hi": "Teri hoke maran, jind-jaan karan",
+          "en": ""
+        },
+        {
+          "time": 91.71,
+          "hi": "Heeriye-heeriye, aa",
+          "en": ""
+        },
+        {
+          "time": 96.69,
+          "hi": "Heeriye-heeriye, aa",
+          "en": ""
+        },
+        {
+          "time": 106.31,
+          "hi": "Chheti aa, chheti, sohne, raat na langhe",
+          "en": ""
+        },
+        {
+          "time": 110.03,
+          "hi": "Aaja ve, aaja, sohne, raat na langhe",
+          "en": ""
+        },
+        {
+          "time": 114.77,
+          "hi": "Chheti aa, chheti, sohne, raat na langhe",
+          "en": ""
+        },
+        {
+          "time": 119.45,
+          "hi": "Aaja ve, aaja, sohne, raat na langhe",
+          "en": ""
+        },
+        {
+          "time": 124.42,
+          "hi": "Jad vi tainu takdi aan ve, akhiyan vi shukar manaven",
+          "en": ""
+        },
+        {
+          "time": 128.62,
+          "hi": "Kole aa, door na ja ve, haaniya",
+          "en": ""
+        },
+        {
+          "time": 133.08,
+          "hi": "Palakan di karke chhaavan, dil de tainu kol bithaavan",
+          "en": ""
+        },
+        {
+          "time": 138,
+          "hi": "Tak-tak tainu khairan paavan, haaniya",
+          "en": ""
+        },
+        {
+          "time": 141.6,
+          "hi": "Teri... (haaniya, teri)",
+          "en": ""
+        },
+        {
+          "time": 146.03,
+          "hi": "Teri... (haaniya, teri)",
+          "en": ""
+        },
+        {
+          "time": 150.56,
+          "hi": "Teri hoke maran, jind-jaan karan",
+          "en": ""
+        },
+        {
+          "time": 155.17,
+          "hi": "Teri hoke maran, jind-jaan karan",
+          "en": ""
+        },
+        {
+          "time": 160.79,
+          "hi": "Heeriye-heeriye, aa",
+          "en": ""
+        },
+        {
+          "time": 165.22,
+          "hi": "Heeriye-heeriye, aa",
+          "en": ""
+        },
+        {
+          "time": 177.28,
+          "hi": "Haaniya, teri",
+          "en": ""
+        },
+        {
+          "time": 186.08,
+          "hi": "Haaniya, teri",
+          "en": ""
+        }
+      ]
     },
     {
       "id": 13,
@@ -151,7 +2492,398 @@
       "album": "Nine Track Mind",
       "videoId": "3AtDnEC4zak",
       "gradient": "linear-gradient(135deg, #6a3093, #a044ff)",
-      "lyrics": []
+      "lyrics": [
+        {
+          "time": 0.12,
+          "hi": "We don't talk anymore",
+          "en": ""
+        },
+        {
+          "time": 2.75,
+          "hi": "We don't talk anymore",
+          "en": ""
+        },
+        {
+          "time": 5.06,
+          "hi": "We don't talk anymore",
+          "en": ""
+        },
+        {
+          "time": 6.81,
+          "hi": "Like we used to do",
+          "en": ""
+        },
+        {
+          "time": 10.05,
+          "hi": "We don't love anymore",
+          "en": ""
+        },
+        {
+          "time": 12.35,
+          "hi": "What was all of it for?",
+          "en": ""
+        },
+        {
+          "time": 14.43,
+          "hi": "Oh, we don't talk anymore",
+          "en": ""
+        },
+        {
+          "time": 16.38,
+          "hi": "Like we used to do",
+          "en": ""
+        },
+        {
+          "time": 19.54,
+          "hi": "I just heard you found the one you've been looking",
+          "en": ""
+        },
+        {
+          "time": 22.89,
+          "hi": "You've been looking for",
+          "en": ""
+        },
+        {
+          "time": 25.42,
+          "hi": "I wish I would have known that wasn't me",
+          "en": ""
+        },
+        {
+          "time": 29.14,
+          "hi": "'Cause even after all this time I still wonder",
+          "en": ""
+        },
+        {
+          "time": 32.58,
+          "hi": "Why I can't move on",
+          "en": ""
+        },
+        {
+          "time": 35.15,
+          "hi": "Just the way you did so easily?",
+          "en": ""
+        },
+        {
+          "time": 39.03,
+          "hi": "Don't wanna know",
+          "en": ""
+        },
+        {
+          "time": 40.93,
+          "hi": "What kind of dress you're wearing tonight",
+          "en": ""
+        },
+        {
+          "time": 43.28,
+          "hi": "If he's holding onto you so tight",
+          "en": ""
+        },
+        {
+          "time": 45.75,
+          "hi": "The way I did before",
+          "en": ""
+        },
+        {
+          "time": 48.65,
+          "hi": "I overdosed",
+          "en": ""
+        },
+        {
+          "time": 50.58,
+          "hi": "Should've known your love was a game",
+          "en": ""
+        },
+        {
+          "time": 52.82,
+          "hi": "Now I can't get you out of my brain",
+          "en": ""
+        },
+        {
+          "time": 55.31,
+          "hi": "Oh, it's such a shame",
+          "en": ""
+        },
+        {
+          "time": 58.01,
+          "hi": "That we don't talk anymore",
+          "en": ""
+        },
+        {
+          "time": 60.34,
+          "hi": "We don't talk anymore",
+          "en": ""
+        },
+        {
+          "time": 62.66,
+          "hi": "We don't talk anymore",
+          "en": ""
+        },
+        {
+          "time": 64.42,
+          "hi": "Like we used to do",
+          "en": ""
+        },
+        {
+          "time": 67.52,
+          "hi": "We don't love anymore",
+          "en": ""
+        },
+        {
+          "time": 69.84,
+          "hi": "What was all of it for?",
+          "en": ""
+        },
+        {
+          "time": 72.01,
+          "hi": "Oh, we don't talk anymore",
+          "en": ""
+        },
+        {
+          "time": 74.07,
+          "hi": "Like we used to do",
+          "en": ""
+        },
+        {
+          "time": 77.12,
+          "hi": "I just hope you're lying next to somebody",
+          "en": ""
+        },
+        {
+          "time": 80.43,
+          "hi": "Who knows how to love you like me",
+          "en": ""
+        },
+        {
+          "time": 83.03,
+          "hi": "There must be a good reason that you're gone",
+          "en": ""
+        },
+        {
+          "time": 86.78,
+          "hi": "Every now and then I think you",
+          "en": ""
+        },
+        {
+          "time": 89.25,
+          "hi": "Might want me to come show up at your door",
+          "en": ""
+        },
+        {
+          "time": 92.59,
+          "hi": "But I'm just too afraid that I'll be wrong",
+          "en": ""
+        },
+        {
+          "time": 96.54,
+          "hi": "Don't wanna know",
+          "en": ""
+        },
+        {
+          "time": 98.49,
+          "hi": "If you're looking into her eyes",
+          "en": ""
+        },
+        {
+          "time": 101.07,
+          "hi": "If she's holding onto you so tight",
+          "en": ""
+        },
+        {
+          "time": 103.49,
+          "hi": "The way I did before",
+          "en": ""
+        },
+        {
+          "time": 106.18,
+          "hi": "I overdosed",
+          "en": ""
+        },
+        {
+          "time": 108.2,
+          "hi": "Should've known your love was a game",
+          "en": ""
+        },
+        {
+          "time": 110.43,
+          "hi": "Now I can't get you out of my brain",
+          "en": ""
+        },
+        {
+          "time": 112.97,
+          "hi": "Ooh, it's such a shame",
+          "en": ""
+        },
+        {
+          "time": 115.66,
+          "hi": "That we don't talk anymore (we don't, we don't)",
+          "en": ""
+        },
+        {
+          "time": 118.26,
+          "hi": "We don't talk anymore (we don't, we don't)",
+          "en": ""
+        },
+        {
+          "time": 120.41,
+          "hi": "We don't talk anymore",
+          "en": ""
+        },
+        {
+          "time": 121.94,
+          "hi": "Like we used to do",
+          "en": ""
+        },
+        {
+          "time": 125.12,
+          "hi": "We don't love anymore (we don't, we don't)",
+          "en": ""
+        },
+        {
+          "time": 127.67,
+          "hi": "What was all of it for? (We don't, we don't)",
+          "en": ""
+        },
+        {
+          "time": 130.01,
+          "hi": "Oh, we don't talk anymore",
+          "en": ""
+        },
+        {
+          "time": 131.65,
+          "hi": "Like we used to do",
+          "en": ""
+        },
+        {
+          "time": 143.88,
+          "hi": "Like we used to do",
+          "en": ""
+        },
+        {
+          "time": 154.33,
+          "hi": "Don't wanna know",
+          "en": ""
+        },
+        {
+          "time": 156.09,
+          "hi": "What kind of dress you're wearing tonight",
+          "en": ""
+        },
+        {
+          "time": 158.35,
+          "hi": "If he's giving it to you just right",
+          "en": ""
+        },
+        {
+          "time": 160.87,
+          "hi": "The way I did before",
+          "en": ""
+        },
+        {
+          "time": 163.81,
+          "hi": "I overdosed",
+          "en": ""
+        },
+        {
+          "time": 165.78,
+          "hi": "Should've known your love was a game",
+          "en": ""
+        },
+        {
+          "time": 168.07,
+          "hi": "Now I can't get you out of my brain",
+          "en": ""
+        },
+        {
+          "time": 170.59,
+          "hi": "Oh, it's such a shame",
+          "en": ""
+        },
+        {
+          "time": 173.21,
+          "hi": "That we don't talk anymore (we don't, we don't)",
+          "en": ""
+        },
+        {
+          "time": 175.7,
+          "hi": "We don't talk anymore (we don't, we don't)",
+          "en": ""
+        },
+        {
+          "time": 177.92,
+          "hi": "We don't talk anymore",
+          "en": ""
+        },
+        {
+          "time": 179.59,
+          "hi": "Like we used to do",
+          "en": ""
+        },
+        {
+          "time": 182.76,
+          "hi": "We don't love anymore (we don't, we don't)",
+          "en": ""
+        },
+        {
+          "time": 185.22,
+          "hi": "What was all of it for? (we don't, we don't)",
+          "en": ""
+        },
+        {
+          "time": 187.63,
+          "hi": "Oh, we don't talk anymore",
+          "en": ""
+        },
+        {
+          "time": 189.15,
+          "hi": "Like we used to do",
+          "en": ""
+        },
+        {
+          "time": 192.5,
+          "hi": "(We don't talk anymore) Don't wanna know",
+          "en": ""
+        },
+        {
+          "time": 194.21,
+          "hi": "What kind of dress you're wearing tonight (oh)",
+          "en": ""
+        },
+        {
+          "time": 196.94,
+          "hi": "If he's holding onto you so tight (oh)",
+          "en": ""
+        },
+        {
+          "time": 199.3,
+          "hi": "The way I did before",
+          "en": ""
+        },
+        {
+          "time": 201.94,
+          "hi": "(We don't talk anymore) I overdosed",
+          "en": ""
+        },
+        {
+          "time": 204.42,
+          "hi": "Should've known your love was a game (oh)",
+          "en": ""
+        },
+        {
+          "time": 206.47,
+          "hi": "Now I can't get you out of my brain (woah)",
+          "en": ""
+        },
+        {
+          "time": 208.81,
+          "hi": "Ooh, it's such a shame",
+          "en": ""
+        },
+        {
+          "time": 211.63,
+          "hi": "We don't talk anymore",
+          "en": ""
+        }
+      ]
     },
     {
       "id": 14,
@@ -160,7 +2892,133 @@
       "album": "I Think They Call This Love",
       "videoId": "2r0pGPAB26g",
       "gradient": "linear-gradient(135deg, #7f7fd5, #91eae4)",
-      "lyrics": []
+      "lyrics": [
+        {
+          "time": 10.29,
+          "hi": "They say that you know when you know",
+          "en": ""
+        },
+        {
+          "time": 17.35,
+          "hi": "So let's face it, you had me at hello",
+          "en": ""
+        },
+        {
+          "time": 25.04,
+          "hi": "Hesitation never helps",
+          "en": ""
+        },
+        {
+          "time": 28.44,
+          "hi": "How could this be anything, anything else, when",
+          "en": ""
+        },
+        {
+          "time": 34.55,
+          "hi": "All I dream of is your eyes, all I long for is your touch",
+          "en": ""
+        },
+        {
+          "time": 41.64,
+          "hi": "And, darling, something tells me it's enough, mm",
+          "en": ""
+        },
+        {
+          "time": 48.18,
+          "hi": "You can say that I'm a fool and I don't know very much",
+          "en": ""
+        },
+        {
+          "time": 55.04,
+          "hi": "But I think they call this love",
+          "en": ""
+        },
+        {
+          "time": 65.02,
+          "hi": "One smile, one kiss, two lonely hearts is all that I need now, baby",
+          "en": ""
+        },
+        {
+          "time": 73.58,
+          "hi": "You're on my mind every night, every day",
+          "en": ""
+        },
+        {
+          "time": 79.92,
+          "hi": "Good vibrations getting loud",
+          "en": ""
+        },
+        {
+          "time": 83.32,
+          "hi": "How could this be anything, anything else, when",
+          "en": ""
+        },
+        {
+          "time": 89.44,
+          "hi": "All I dream of is your eyes, all I long is for your touch",
+          "en": ""
+        },
+        {
+          "time": 96.46,
+          "hi": "And, darling, something tells me that's enough, mm",
+          "en": ""
+        },
+        {
+          "time": 103.07,
+          "hi": "You can say that I'm a fool and I don't know very much",
+          "en": ""
+        },
+        {
+          "time": 110.09,
+          "hi": "But I think they call this love",
+          "en": ""
+        },
+        {
+          "time": 116.78,
+          "hi": "Oh, I think they call this love",
+          "en": ""
+        },
+        {
+          "time": 135.42,
+          "hi": "What could this be",
+          "en": ""
+        },
+        {
+          "time": 137.62,
+          "hi": "Between you and me? Oh",
+          "en": ""
+        },
+        {
+          "time": 143.08,
+          "hi": "All I dream of is your eyes, all I long for is your touch",
+          "en": ""
+        },
+        {
+          "time": 151.28,
+          "hi": "And, darling, something tells me, tells me it's enough",
+          "en": ""
+        },
+        {
+          "time": 158,
+          "hi": "You can say that I'm a fool and I don't know very much",
+          "en": ""
+        },
+        {
+          "time": 164.8,
+          "hi": "But I think they call, oh, I think they call",
+          "en": ""
+        },
+        {
+          "time": 171.76,
+          "hi": "Oh, I think they call this love",
+          "en": ""
+        },
+        {
+          "time": 185.33,
+          "hi": "This love",
+          "en": ""
+        }
+      ]
     },
     {
       "id": 15,
@@ -169,7 +3027,238 @@
       "album": "Let The World Burn",
       "videoId": "SkcO47UDzzY",
       "gradient": "linear-gradient(135deg, #ff416c, #ff4b2b)",
-      "lyrics": []
+      "lyrics": [
+        {
+          "time": 5.09,
+          "hi": "Lost in the fog",
+          "en": ""
+        },
+        {
+          "time": 8.4,
+          "hi": "I fear that there's still further to fall",
+          "en": ""
+        },
+        {
+          "time": 13.56,
+          "hi": "It's dangerous 'cause I want it all",
+          "en": ""
+        },
+        {
+          "time": 19.05,
+          "hi": "And I don't really care what it costs",
+          "en": ""
+        },
+        {
+          "time": 24.15,
+          "hi": "I shouldn't have fallen in love",
+          "en": ""
+        },
+        {
+          "time": 27.05,
+          "hi": "Look what it made me become",
+          "en": ""
+        },
+        {
+          "time": 29.38,
+          "hi": "I let you get too close",
+          "en": ""
+        },
+        {
+          "time": 31.12,
+          "hi": "Just to wake up alone",
+          "en": ""
+        },
+        {
+          "time": 34.22,
+          "hi": "And I know you think you can run",
+          "en": ""
+        },
+        {
+          "time": 37.03,
+          "hi": "You're scared to believe I'm the one",
+          "en": ""
+        },
+        {
+          "time": 39.99,
+          "hi": "But I just can't let you go",
+          "en": ""
+        },
+        {
+          "time": 44.84,
+          "hi": "I'd let the world burn",
+          "en": ""
+        },
+        {
+          "time": 47.6,
+          "hi": "Let the world burn for you",
+          "en": ""
+        },
+        {
+          "time": 50.52,
+          "hi": "This is how it always had to end",
+          "en": ""
+        },
+        {
+          "time": 53.14,
+          "hi": "If I can't have you then no one can",
+          "en": ""
+        },
+        {
+          "time": 55.79,
+          "hi": "I'd let it burn",
+          "en": ""
+        },
+        {
+          "time": 58.28,
+          "hi": "I'd let the world burn",
+          "en": ""
+        },
+        {
+          "time": 60.85,
+          "hi": "Just to hear you calling out my name",
+          "en": ""
+        },
+        {
+          "time": 63.79,
+          "hi": "Watching it all go down in flames",
+          "en": ""
+        },
+        {
+          "time": 66.84,
+          "hi": "Fear in their eyes",
+          "en": ""
+        },
+        {
+          "time": 70.17,
+          "hi": "Ash raining from the blood orange sky",
+          "en": ""
+        },
+        {
+          "time": 75.36,
+          "hi": "I let everybody know that you're mine",
+          "en": ""
+        },
+        {
+          "time": 81.06,
+          "hi": "Now it's just a matter of time",
+          "en": ""
+        },
+        {
+          "time": 85.93,
+          "hi": "Before we're swept into the dust",
+          "en": ""
+        },
+        {
+          "time": 88.85,
+          "hi": "Look what you made me become",
+          "en": ""
+        },
+        {
+          "time": 91.65,
+          "hi": "I let you get too close",
+          "en": ""
+        },
+        {
+          "time": 93.91,
+          "hi": "Just to wake up alone",
+          "en": ""
+        },
+        {
+          "time": 96.56,
+          "hi": "And I know you think you can run",
+          "en": ""
+        },
+        {
+          "time": 99.17,
+          "hi": "You're scared to believe I'm the one",
+          "en": ""
+        },
+        {
+          "time": 101.42,
+          "hi": "But I just can't let you go",
+          "en": ""
+        },
+        {
+          "time": 106.98,
+          "hi": "I'd let the world burn",
+          "en": ""
+        },
+        {
+          "time": 109.75,
+          "hi": "Let the world burn for you",
+          "en": ""
+        },
+        {
+          "time": 112.61,
+          "hi": "This is how it always had to end",
+          "en": ""
+        },
+        {
+          "time": 115.23,
+          "hi": "If I can't have you then no one can",
+          "en": ""
+        },
+        {
+          "time": 117.71,
+          "hi": "I'd let it burn",
+          "en": ""
+        },
+        {
+          "time": 120.37,
+          "hi": "I'd let the world burn",
+          "en": ""
+        },
+        {
+          "time": 122.99,
+          "hi": "Just to hear you calling out my name",
+          "en": ""
+        },
+        {
+          "time": 125.89,
+          "hi": "Watching it all go down in flames",
+          "en": ""
+        },
+        {
+          "time": 128.49,
+          "hi": "Let it all burn",
+          "en": ""
+        },
+        {
+          "time": 133.33,
+          "hi": "Oh I'd burn this world for you",
+          "en": ""
+        },
+        {
+          "time": 137.74,
+          "hi": "Oh baby I'd let it burn",
+          "en": ""
+        },
+        {
+          "time": 143.99,
+          "hi": "For you",
+          "en": ""
+        },
+        {
+          "time": 148.15,
+          "hi": "I'd let the world burn",
+          "en": ""
+        },
+        {
+          "time": 151.04,
+          "hi": "Let the world burn for you",
+          "en": ""
+        },
+        {
+          "time": 153.91,
+          "hi": "This is how it always had to end",
+          "en": ""
+        },
+        {
+          "time": 156.79,
+          "hi": "If I can't have you then no one can",
+          "en": ""
+        }
+      ]
     },
     {
       "id": 16,
@@ -178,7 +3267,338 @@
       "album": "My World 2.0",
       "videoId": "kffacxfA7G4",
       "gradient": "linear-gradient(135deg, #00b4db, #0083b0)",
-      "lyrics": []
+      "lyrics": [
+        {
+          "time": 1.11,
+          "hi": "Oh whoa, oh whoa, oh whoa",
+          "en": ""
+        },
+        {
+          "time": 15.07,
+          "hi": "You know you love me, I know you care",
+          "en": ""
+        },
+        {
+          "time": 18.22,
+          "hi": "Just shout whenever and I'll be there",
+          "en": ""
+        },
+        {
+          "time": 21.64,
+          "hi": "You want my love, you want my heart",
+          "en": ""
+        },
+        {
+          "time": 25.64,
+          "hi": "And we will never, ever, ever be apart",
+          "en": ""
+        },
+        {
+          "time": 28.59,
+          "hi": "Are we an item? Girl, quit playin'",
+          "en": ""
+        },
+        {
+          "time": 32.86,
+          "hi": "We're just friends, what are you sayin'",
+          "en": ""
+        },
+        {
+          "time": 35.9,
+          "hi": "Said, \"there's another,\" and looked right in my eyes",
+          "en": ""
+        },
+        {
+          "time": 40.05,
+          "hi": "My first love broke my heart for the first time",
+          "en": ""
+        },
+        {
+          "time": 43.29,
+          "hi": "And I was like baby, baby, baby, oh",
+          "en": ""
+        },
+        {
+          "time": 47.07,
+          "hi": "Like baby, baby, baby, no",
+          "en": ""
+        },
+        {
+          "time": 50.28,
+          "hi": "Like baby, baby, baby, oh",
+          "en": ""
+        },
+        {
+          "time": 54.28,
+          "hi": "I thought you'd always be mine, mine",
+          "en": ""
+        },
+        {
+          "time": 58.41,
+          "hi": "Baby, baby, baby, oh",
+          "en": ""
+        },
+        {
+          "time": 61.93,
+          "hi": "Like baby, baby, baby, no",
+          "en": ""
+        },
+        {
+          "time": 64.97,
+          "hi": "Like baby, baby, baby, oh",
+          "en": ""
+        },
+        {
+          "time": 69.27,
+          "hi": "I thought you'd always be mine, mine",
+          "en": ""
+        },
+        {
+          "time": 72.96,
+          "hi": "Oh, for you, I would have done whatever",
+          "en": ""
+        },
+        {
+          "time": 76.71,
+          "hi": "And I just can't believe we ain't together",
+          "en": ""
+        },
+        {
+          "time": 80.45,
+          "hi": "And I wanna play it cool",
+          "en": ""
+        },
+        {
+          "time": 82.83,
+          "hi": "But I'm losin' you",
+          "en": ""
+        },
+        {
+          "time": 86.88,
+          "hi": "I'll buy you anything",
+          "en": ""
+        },
+        {
+          "time": 87.11,
+          "hi": "I'll buy you any ring",
+          "en": ""
+        },
+        {
+          "time": 88.75,
+          "hi": "And I'm in pieces, baby, fix me",
+          "en": ""
+        },
+        {
+          "time": 90.38,
+          "hi": "And just shake me 'til you wake me from this bad dream",
+          "en": ""
+        },
+        {
+          "time": 94.54,
+          "hi": "I'm goin' down, down, down, down",
+          "en": ""
+        },
+        {
+          "time": 98.4,
+          "hi": "And I just can't believe my first love won't be around",
+          "en": ""
+        },
+        {
+          "time": 102.36,
+          "hi": "And I'm like baby, baby, baby, oh",
+          "en": ""
+        },
+        {
+          "time": 104.77,
+          "hi": "Like baby, baby, baby, no",
+          "en": ""
+        },
+        {
+          "time": 109.81,
+          "hi": "Like baby, baby, baby, oh",
+          "en": ""
+        },
+        {
+          "time": 113.08,
+          "hi": "I thought you'd always be mine, mine",
+          "en": ""
+        },
+        {
+          "time": 117.38,
+          "hi": "Baby, baby, baby, oh",
+          "en": ""
+        },
+        {
+          "time": 121.2,
+          "hi": "Like baby, baby, baby, no",
+          "en": ""
+        },
+        {
+          "time": 125.11,
+          "hi": "Like baby, baby, baby, oh",
+          "en": ""
+        },
+        {
+          "time": 128,
+          "hi": "I thought you'd always be mine, mine",
+          "en": ""
+        },
+        {
+          "time": 132.52,
+          "hi": "Luda, when I was thirteen, I had my first love",
+          "en": ""
+        },
+        {
+          "time": 137.29,
+          "hi": "There was nobody that compared to my baby",
+          "en": ""
+        },
+        {
+          "time": 138.56,
+          "hi": "And nobody came between us or one could ever come above",
+          "en": ""
+        },
+        {
+          "time": 140.63,
+          "hi": "She had me goin' crazy",
+          "en": ""
+        },
+        {
+          "time": 142.83,
+          "hi": "Oh, I was starstruck",
+          "en": ""
+        },
+        {
+          "time": 144.45,
+          "hi": "She woke me up daily",
+          "en": ""
+        },
+        {
+          "time": 146.5,
+          "hi": "Don't need no Starbucks",
+          "en": ""
+        },
+        {
+          "time": 148.11,
+          "hi": "She made my heart pound",
+          "en": ""
+        },
+        {
+          "time": 150.24,
+          "hi": "And skip a beat when I see her in the street and",
+          "en": ""
+        },
+        {
+          "time": 152.11,
+          "hi": "At school on the playground",
+          "en": ""
+        },
+        {
+          "time": 154.04,
+          "hi": "But I really wanna see her on the weekend",
+          "en": ""
+        },
+        {
+          "time": 155.62,
+          "hi": "She know she got me dazin'",
+          "en": ""
+        },
+        {
+          "time": 157.48,
+          "hi": "'Cause she was so amazin'",
+          "en": ""
+        },
+        {
+          "time": 159.02,
+          "hi": "And now my heart is breakin'",
+          "en": ""
+        },
+        {
+          "time": 161.23,
+          "hi": "But I just keep on sayin'",
+          "en": ""
+        },
+        {
+          "time": 163.62,
+          "hi": "Baby, baby, baby, oh",
+          "en": ""
+        },
+        {
+          "time": 165.73,
+          "hi": "Like baby, baby, baby, no",
+          "en": ""
+        },
+        {
+          "time": 168.91,
+          "hi": "Like baby, baby, baby, oh",
+          "en": ""
+        },
+        {
+          "time": 172.64,
+          "hi": "I thought you'd always be mine, mine",
+          "en": ""
+        },
+        {
+          "time": 176.78,
+          "hi": "Baby, baby, baby, oh",
+          "en": ""
+        },
+        {
+          "time": 181.5,
+          "hi": "Like baby, baby, baby, no",
+          "en": ""
+        },
+        {
+          "time": 184.19,
+          "hi": "Like baby, baby, baby, oh",
+          "en": ""
+        },
+        {
+          "time": 187.98,
+          "hi": "I thought you'd always be mine, mine",
+          "en": ""
+        },
+        {
+          "time": 191.65,
+          "hi": "I'm gone",
+          "en": ""
+        },
+        {
+          "time": 193.84,
+          "hi": "(Yeah, yeah, yeah)",
+          "en": ""
+        },
+        {
+          "time": 194.89,
+          "hi": "(Yeah, yeah, yeah) now I'm all gone",
+          "en": ""
+        },
+        {
+          "time": 196.44,
+          "hi": "(Yeah, yeah, yeah)",
+          "en": ""
+        },
+        {
+          "time": 197.81,
+          "hi": "(Yeah, yeah, yeah) now I'm all gone",
+          "en": ""
+        },
+        {
+          "time": 199.49,
+          "hi": "(Yeah, yeah, yeah)",
+          "en": ""
+        },
+        {
+          "time": 201.25,
+          "hi": "(Yeah, yeah, yeah) now I'm all gone",
+          "en": ""
+        },
+        {
+          "time": 202.83,
+          "hi": "(Gone, gone, gone, gone) I'm gone",
+          "en": ""
+        }
+      ]
     },
     {
       "id": 17,
@@ -187,14 +3607,379 @@
       "album": "Danza Kuduro",
       "videoId": "LszrNDvIivU",
       "gradient": "linear-gradient(135deg, #f7971e, #ffd200)",
-      "lyrics": []
+      "lyrics": [
+        {
+          "time": 21.61,
+          "hi": "A&X El Orfanato",
+          "en": ""
+        },
+        {
+          "time": 22.87,
+          "hi": "Danza Kuduroooo",
+          "en": ""
+        },
+        {
+          "time": 27.19,
+          "hi": "Plo plo plo plo",
+          "en": ""
+        },
+        {
+          "time": 28.19,
+          "hi": "Lucenzo El Orfanato",
+          "en": ""
+        },
+        {
+          "time": 28.99,
+          "hi": "El Rey",
+          "en": ""
+        },
+        {
+          "time": 29.52,
+          "hi": "Las manos arriba cintura sola",
+          "en": ""
+        },
+        {
+          "time": 30.33,
+          "hi": "Da media vuelta danza kuduro",
+          "en": ""
+        },
+        {
+          "time": 31.68,
+          "hi": "No te canses ahora que esto solo empieza",
+          "en": ""
+        },
+        {
+          "time": 32.55,
+          "hi": "Mueve la cabeza danza kuduro",
+          "en": ""
+        },
+        {
+          "time": 34.14,
+          "hi": "Las manos arriba cintura sola",
+          "en": ""
+        },
+        {
+          "time": 37.1,
+          "hi": "Da media vuelta danza kuduro",
+          "en": ""
+        },
+        {
+          "time": 41.29,
+          "hi": "No te canses ahora que esto solo empieza",
+          "en": ""
+        },
+        {
+          "time": 44.62,
+          "hi": "Mueve la cabeza danza kuduro",
+          "en": ""
+        },
+        {
+          "time": 48.28,
+          "hi": "Quien puede domar la fuerza del mar",
+          "en": ""
+        },
+        {
+          "time": 50.55,
+          "hi": "Que se mete por tus venas",
+          "en": ""
+        },
+        {
+          "time": 51.82,
+          "hi": "Lo caliente del sol que se te metio",
+          "en": ""
+        },
+        {
+          "time": 53.21,
+          "hi": "Y no te deja quieta nena",
+          "en": ""
+        },
+        {
+          "time": 55.42,
+          "hi": "Quien puede parar eso que al bailar",
+          "en": ""
+        },
+        {
+          "time": 56.99,
+          "hi": "Descontrola tus caderas sexy",
+          "en": ""
+        },
+        {
+          "time": 58.67,
+          "hi": "Y ese fuego que quema por dentro",
+          "en": ""
+        },
+        {
+          "time": 61.15,
+          "hi": "Y lento te convierte en fiera",
+          "en": ""
+        },
+        {
+          "time": 62.74,
+          "hi": "Con las manos arriba cintura sola",
+          "en": ""
+        },
+        {
+          "time": 64.61,
+          "hi": "Da media vuelta y sacude duro",
+          "en": ""
+        },
+        {
+          "time": 70.55,
+          "hi": "No te quites ahora que esto solo empieza",
+          "en": ""
+        },
+        {
+          "time": 73.5,
+          "hi": "Mueve la cabeza y sacude duro",
+          "en": ""
+        },
+        {
+          "time": 76.59,
+          "hi": "Balançar què uma loucura",
+          "en": ""
+        },
+        {
+          "time": 80.16,
+          "hi": "Morena vem o meu lado",
+          "en": ""
+        },
+        {
+          "time": 81.28,
+          "hi": "Ninguem vai ficar parado",
+          "en": ""
+        },
+        {
+          "time": 82.74,
+          "hi": "Quero ver Mexa kuduro",
+          "en": ""
+        },
+        {
+          "time": 86.48,
+          "hi": "Balançar què uma loucura",
+          "en": ""
+        },
+        {
+          "time": 87.82,
+          "hi": "Morena vem o meu lado",
+          "en": ""
+        },
+        {
+          "time": 89.15,
+          "hi": "Ninguem vai ficar parado oh",
+          "en": ""
+        },
+        {
+          "time": 91.36,
+          "hi": "Oi oi oi, oi oi oi",
+          "en": ""
+        },
+        {
+          "time": 92.41,
+          "hi": "E para quebrar kuduro, vamos dançar kuduro",
+          "en": ""
+        },
+        {
+          "time": 98.25,
+          "hi": "Oi oi oi, oi oi oi",
+          "en": ""
+        },
+        {
+          "time": 101.45,
+          "hi": "Seja morena o loira, vem balançar kuduro",
+          "en": ""
+        },
+        {
+          "time": 105.23,
+          "hi": "Oi oi oi",
+          "en": ""
+        },
+        {
+          "time": 107.68,
+          "hi": "Las manos arriba cintura sola",
+          "en": ""
+        },
+        {
+          "time": 109.84,
+          "hi": "Da media vuelta danza kuduro",
+          "en": ""
+        },
+        {
+          "time": 113.89,
+          "hi": "No te canses ahora que esto solo empieza",
+          "en": ""
+        },
+        {
+          "time": 117.22,
+          "hi": "Mueve la cabeza danza kuduro",
+          "en": ""
+        },
+        {
+          "time": 120.94,
+          "hi": "Las manos arriba cintura sola",
+          "en": ""
+        },
+        {
+          "time": 124.88,
+          "hi": "Da media vuelta danza kuduro",
+          "en": ""
+        },
+        {
+          "time": 128.35,
+          "hi": "No te canses ahora que esto solo empieza",
+          "en": ""
+        },
+        {
+          "time": 131.13,
+          "hi": "Mueve la cabeza danza kuduro",
+          "en": ""
+        },
+        {
+          "time": 135.33,
+          "hi": "Balançar què uma loucura",
+          "en": ""
+        },
+        {
+          "time": 137.68,
+          "hi": "Morena vem o meu lado",
+          "en": ""
+        },
+        {
+          "time": 139.35,
+          "hi": "Ninguem vai ficar parado",
+          "en": ""
+        },
+        {
+          "time": 141.35,
+          "hi": "Quero ver Mexa kuduro",
+          "en": ""
+        },
+        {
+          "time": 143.17,
+          "hi": "Balançar què uma loucura",
+          "en": ""
+        },
+        {
+          "time": 144.82,
+          "hi": "Morena vem o meu lado",
+          "en": ""
+        },
+        {
+          "time": 146.61,
+          "hi": "Ninguem vai ficar parado oh",
+          "en": ""
+        },
+        {
+          "time": 148.71,
+          "hi": "Oi oi oi, oi oi oi",
+          "en": ""
+        },
+        {
+          "time": 150.24,
+          "hi": "E para quebrar kuduro, vamos dançar kuduro",
+          "en": ""
+        },
+        {
+          "time": 156.16,
+          "hi": "Oi oi oi, oi oi oi",
+          "en": ""
+        },
+        {
+          "time": 159.82,
+          "hi": "Seja morena o loira, vem balançar kuduro",
+          "en": ""
+        },
+        {
+          "time": 163.32,
+          "hi": "Oi oi oi",
+          "en": ""
+        },
+        {
+          "time": 168.03,
+          "hi": "El Orfanatooooooo!",
+          "en": ""
+        },
+        {
+          "time": 168.91,
+          "hi": "Las manos arriba cintura sola",
+          "en": ""
+        },
+        {
+          "time": 169.97,
+          "hi": "Da media vuelta danza kuduro",
+          "en": ""
+        },
+        {
+          "time": 174.02,
+          "hi": "No te canses ahora que esto solo empieza",
+          "en": ""
+        },
+        {
+          "time": 177.63,
+          "hi": "Mueve la cabeza danza kuduro",
+          "en": ""
+        },
+        {
+          "time": 181.33,
+          "hi": "Las manos arriba cintura sola",
+          "en": ""
+        },
+        {
+          "time": 184.98,
+          "hi": "Da media vuelta danza kuduro",
+          "en": ""
+        },
+        {
+          "time": 188.65,
+          "hi": "No te canses ahora que esto solo empieza",
+          "en": ""
+        },
+        {
+          "time": 192.29,
+          "hi": "Mueve la cabeza danza kuduro",
+          "en": ""
+        }
+      ]
     }
   ],
   "sections": [
-    { "id": "recently-played", "title": "Recently Played", "songIds": [1, 2, 3] },
-    { "id": "trending-india", "title": "Trending in India", "songIds": [4, 5, 6] },
-    { "id": "top-charts", "title": "Top Charts", "songIds": [7, 8, 9, 10] },
-    { "id": "made-for-you", "title": "Made for You", "songIds": [11, 12] },
-    { "id": "english-hits", "title": "English Hits", "songIds": [13, 14, 15, 16, 17] }
+    {
+      "id": "recently-played",
+      "title": "Recently Played",
+      "songIds": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "trending-india",
+      "title": "Trending in India",
+      "songIds": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "top-charts",
+      "title": "Top Charts",
+      "songIds": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "english-hits",
+      "title": "English Hits",
+      "songIds": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    }
   ]
 }

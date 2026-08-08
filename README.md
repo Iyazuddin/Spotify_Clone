@@ -14,7 +14,7 @@ Built as a portfolio project to demonstrate fullstack skills: an Express REST AP
 - **Volume** — slider plus a mute/unmute toggle
 - **Live search** — instant filtering by title / artist / album (runs client-side, so it works on any host)
 - **Liked Songs** — heart any track; favorites persist in `localStorage` across reloads
-- **Lyrics panel** — synced transliterated + English lyrics for select tracks, with a graceful "not available" state for the rest
+- **Lyrics panel** — full synced lyrics for **every track** in Romanized English, time-aligned to the audio and auto-scrolling
 - **Keyboard shortcuts** — `Space` play/pause · `←`/`→` prev/next · `L` toggle lyrics
 - **Fully responsive** — desktop layout, a slide-in mobile drawer for the sidebar, and touch-friendly controls
 
@@ -110,13 +110,11 @@ No environment variables, no API keys, no build step. The Express backend is opt
 
 ## 🔮 Future Improvements
 
-- Re-time the existing lyrics to the real (3–4 min) song lengths
-- Add synced lyrics for every track
+- Add literal English translations alongside the Romanized lyrics
 - Playlist creation + persistence
 - Swap the JSON store for MongoDB/MySQL
 - User accounts & cloud-synced liked songs
 - Animated equalizer/visualizer on the player
-- Deploy to the cloud (Render, Railway, or Vercel)
 - PWA support for offline use
 
 ---

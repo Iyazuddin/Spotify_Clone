@@ -215,6 +215,14 @@ function updateActiveCard() {
   }
 }
 
+function escapeHtml(str) {
+  return String(str)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
 function renderLyrics(track) {
   lyricsTitle.textContent = track.title;
   lyricsArtist.textContent = `${track.artist} · ${track.album}`;
@@ -232,8 +240,8 @@ function renderLyrics(track) {
     .map(
       (line, i) => `
       <div class="lyric-line" data-index="${i}">
-        <p class="lyric-hi">${line.hi}</p>
-        <p class="lyric-en">${line.en}</p>
+        <p class="lyric-hi">${escapeHtml(line.hi)}</p>
+        ${line.en ? `<p class="lyric-en">${escapeHtml(line.en)}</p>` : ""}
       </div>
     `,
     )
