@@ -1,6 +1,3 @@
-/* ============================================
-   Spotify Clone — Design System
-   ============================================ */
 :root {
   --bg-base: #000000;
   --bg-highlight: #121212;
@@ -28,9 +25,6 @@
   --shadow-play: 0 8px 16px rgba(0, 0, 0, 0.4);
 }
 
-/* ============================================
-   Reset & Base
-   ============================================ */
 *,
 *::before,
 *::after {
@@ -71,15 +65,11 @@ img {
   max-width: 100%;
 }
 
-/* Focus styles for accessibility */
 :focus-visible {
   outline: 2px solid var(--spotify-green);
   outline-offset: 2px;
 }
 
-/* ============================================
-   Scrollbar
-   ============================================ */
 ::-webkit-scrollbar {
   width: 12px;
 }
@@ -98,9 +88,6 @@ img {
   background-color: rgba(255, 255, 255, 0.5);
 }
 
-/* ============================================
-   Layout
-   ============================================ */
 .main {
   display: flex;
   height: calc(100vh - var(--player-height));
@@ -109,9 +96,6 @@ img {
   background-color: var(--bg-base);
 }
 
-/* ============================================
-   Sidebar
-   ============================================ */
 .sidebar {
   width: var(--sidebar-width);
   min-width: var(--sidebar-width);
@@ -174,7 +158,6 @@ img {
   color: var(--text-highlight);
 }
 
-/* Library section */
 .library {
   background-color: var(--bg-highlight);
   border-radius: var(--radius-md);
@@ -278,9 +261,6 @@ img {
   line-height: 1.4;
 }
 
-/* ============================================
-   Buttons / Badges
-   ============================================ */
 .badge {
   background-color: var(--text-highlight);
   border: none;
@@ -316,9 +296,6 @@ img {
   transform: scale(1.04);
 }
 
-/* ============================================
-   Main Content
-   ============================================ */
 .main-content {
   flex: 1;
   min-width: 0;
@@ -330,7 +307,6 @@ img {
   scroll-behavior: smooth;
 }
 
-/* Sticky navigation bar */
 .sticky-nav {
   position: sticky;
   top: 0;
@@ -409,7 +385,7 @@ img {
   background-color: #444;
 }
 
-/* Hamburger (mobile drawer toggle) */
+
 .hamburger {
   display: none;
   background: rgba(0, 0, 0, 0.6);
@@ -430,7 +406,7 @@ img {
   background-color: rgba(0, 0, 0, 0.8);
 }
 
-/* Search bar in sticky nav */
+
 .sticky-nav-search {
   display: flex;
   align-items: center;
@@ -470,7 +446,7 @@ img {
   color: var(--text-subdued);
 }
 
-/* Section headings */
+
 h2 {
   font-size: 1.5rem;
   font-weight: 700;
@@ -479,9 +455,7 @@ h2 {
   color: var(--text-highlight);
 }
 
-/* ============================================
-   Cards
-   ============================================ */
+
 .cards-container {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(160px, 180px));
@@ -517,7 +491,7 @@ h2 {
   overflow: hidden;
 }
 
-/* Play button overlay */
+
 .card-play-btn {
   position: absolute;
   right: 0.5rem;
@@ -554,7 +528,7 @@ h2 {
   transform: translateY(0) scale(1.06);
 }
 
-/* Like (heart) button on cards */
+
 .card-heart {
   position: absolute;
   top: 0.5rem;
@@ -591,7 +565,7 @@ h2 {
   color: var(--spotify-green);
 }
 
-/* Gradient covers for songs without image files */
+
 .gradient-card {
   width: 100%;
   aspect-ratio: 1;
@@ -616,7 +590,7 @@ h2 {
   transform: scale(1.02);
 }
 
-/* Hidden YouTube player — streams the real audio (no visible video UI) */
+
 #youtube-player {
   position: fixed;
   width: 0;
@@ -646,7 +620,7 @@ h2 {
   line-height: 1.4;
 }
 
-/* Footer spacer */
+
 .footer {
   height: 200px;
   display: flex;
@@ -660,9 +634,7 @@ h2 {
   background-color: var(--border-subtle);
 }
 
-/* ============================================
-   Search results & empty states
-   ============================================ */
+
 .search-results {
   display: none;
 }
@@ -686,9 +658,7 @@ h2 {
   display: none !important;
 }
 
-/* ============================================
-   Music Player
-   ============================================ */
+
 .music-player {
   background-color: var(--bg-base);
   position: fixed;
@@ -704,7 +674,7 @@ h2 {
   z-index: 100;
 }
 
-/* Album info (left) */
+
 .album {
   display: flex;
   align-items: center;
@@ -736,7 +706,7 @@ h2 {
   }
 }
 
-/* Gradient cover for the player when a song has no image file */
+
 .album-cover-gradient {
   display: none;
   height: 56px;
@@ -789,7 +759,7 @@ h2 {
   color: var(--text-highlight);
 }
 
-/* Player controls (center) */
+
 .player {
   display: flex;
   flex-direction: column;
@@ -838,7 +808,7 @@ h2 {
   color: var(--spotify-green);
 }
 
-/* FontAwesome controls in the player (shuffle / repeat) */
+
 .player-fa-icon {
   font-size: 1rem;
   color: var(--text-highlight);
@@ -857,7 +827,7 @@ h2 {
   opacity: 1;
 }
 
-/* Repeat-one state: small "1" badge on the repeat icon */
+
 #repeat-btn {
   position: relative;
 }
@@ -880,7 +850,7 @@ h2 {
   border-radius: 50%;
 }
 
-/* Slim now-playing line (mobile only) */
+
 .now-playing {
   display: none;
 }
@@ -902,7 +872,7 @@ h2 {
   text-overflow: ellipsis;
 }
 
-/* Progress bar */
+
 .playback-bar {
   display: flex;
   justify-content: space-between;
@@ -977,7 +947,7 @@ h2 {
   border-radius: 2px;
 }
 
-/* Volume & extra controls (right) */
+
 .controls {
   display: flex;
   align-items: center;
@@ -1050,9 +1020,7 @@ h2 {
   opacity: 1;
 }
 
-/* ============================================
-   Lyrics Panel
-   ============================================ */
+
 .lyrics-panel {
   position: fixed;
   right: 0;
@@ -1172,7 +1140,7 @@ h2 {
   opacity: 0.5;
 }
 
-/* Shift main content when lyrics open */
+
 .main.lyrics-open {
   margin-right: 380px;
   transition: margin-right var(--transition-base);
@@ -1198,9 +1166,7 @@ h2 {
   }
 }
 
-/* ============================================
-   Drawer overlay (mobile)
-   ============================================ */
+
 .drawer-overlay {
   display: none;
   position: fixed;
@@ -1215,9 +1181,7 @@ h2 {
   display: block;
 }
 
-/* ============================================
-   Responsive
-   ============================================ */
+
 @media (max-width: 1100px) {
   :root {
     --sidebar-width: 280px;
@@ -1228,7 +1192,7 @@ h2 {
     padding-bottom: calc(1rem + env(safe-area-inset-bottom, 0px));
   }
 
-  /* Keep the like / lyrics / mute icons — hide the decorative bits */
+  
   .controls {
     gap: 0.375rem;
   }
@@ -1240,7 +1204,7 @@ h2 {
 }
 
 @media (max-width: 768px) {
-  /* Sidebar becomes an off-canvas drawer (library survives on mobile) */
+  
   .sidebar {
     position: fixed;
     top: 0;
@@ -1261,7 +1225,7 @@ h2 {
     transform: translateX(0);
   }
 
-  /* Hamburger toggles the drawer; search goes full-width on its own row */
+  
   .hamburger {
     display: flex;
   }
@@ -1292,7 +1256,7 @@ h2 {
     display: none;
   }
 
-  /* Album info moves above the controls so track context survives */
+  
   .now-playing {
     display: block;
     text-align: center;
@@ -1339,7 +1303,7 @@ h2 {
   }
 }
 
-/* Touch devices: no hover, so always show slider thumbs and card hearts */
+
 @media (pointer: coarse) {
   .progress-bar::-webkit-slider-thumb,
   .volume-bar::-webkit-slider-thumb,

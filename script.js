@@ -1,10 +1,3 @@
-/* ============================================
-   Spotify Clone — Player logic
-   Song data + metadata from the Express API (data/songs.json)
-   Audio: streams each song's official video via the YouTube IFrame API
-   ============================================ */
-
-/* ---------- State ---------- */
 let songs = [];
 let sections = [];
 let songsById = new Map();
@@ -14,24 +7,19 @@ let isPlaying = false;
 let lyricsVisible = false;
 
 let shuffle = false;
-let repeatMode = "off"; // 'off' | 'all' | 'one'
+let repeatMode = "off";
 
 let likedIds = new Set(getLikedIds());
 
-/* queue = source order of the current context;
-   playOrder = the order navigation actually follows (shuffled or not);
-   playOrderIndex = where we are in playOrder */
 let queue = [];
 let playOrder = [];
 let playOrderIndex = 0;
 
-/* ---------- YouTube player state ---------- */
 let ytPlayer = null;
 let ytReady = false;
 let progressPollTimer = null;
 let prevVolume = 70;
 
-/* ---------- Elements ---------- */
 const playBtn = document.getElementById("play-btn");
 const prevBtn = document.getElementById("prev-btn");
 const nextBtn = document.getElementById("next-btn");
@@ -67,7 +55,6 @@ const drawerOverlay = document.getElementById("drawer-overlay");
 const likedContainer = document.getElementById("liked-songs");
 const likedEmpty = document.getElementById("liked-empty");
 
-/* ---------- Helpers ---------- */
 function formatTime(seconds) {
   if (!seconds || isNaN(seconds)) return "0:00";
   const mins = Math.floor(seconds / 60);
@@ -83,8 +70,6 @@ function shuffleArrayInPlace(arr) {
   return arr;
 }
 
-/* Build the play order from a source list; when shuffle is on,
-   pin `firstId` to the front and shuffle the rest */
 function buildPlayOrder(source, firstId) {
   if (!shuffle) return [...source];
   const rest = source.filter((id) => id !== firstId);
@@ -97,7 +82,6 @@ function setQueue(ids) {
   playOrder = buildPlayOrder(queue, currentTrackId);
 }
 
-/* ---------- Liked songs ---------- */
 function getLikedIds() {
   try {
     return JSON.parse(localStorage.getItem("likedSongs")) || [];
@@ -126,7 +110,6 @@ function updateLikeUI(id) {
   if (currentTrackId === id) playerHeart.classList.toggle("active", liked);
 }
 
-/* ---------- Rendering ---------- */
 function makeCard(track, contextIds) {
   const card = document.createElement("div");
   card.className = "card";
@@ -135,7 +118,6 @@ function makeCard(track, contextIds) {
   const imgWrapper = document.createElement("div");
   imgWrapper.className = "card-img-wrapper";
 
-  // All songs use a gradient cover block (no image files)
   const grad = document.createElement("div");
   grad.className = "gradient-card";
   grad.style.background = track.gradient || "#181818";
@@ -221,7 +203,9 @@ function updateActiveCard() {
     if (playIcon) playIcon.className = "fa-solid fa-play";
   });
 
-  const activeCard = document.querySelector(`.card[data-track-id="${currentTrackId}"]`);
+  const activeCard = document.querySelector(
+    `.card[data-track-id="${currentTrackId}"]`,
+  );
   if (activeCard) {
     activeCard.classList.add("playing");
     const playIcon = activeCard.querySelector(".card-play-btn i");
@@ -231,7 +215,6 @@ function updateActiveCard() {
   }
 }
 
-/* ---------- Lyrics ---------- */
 function renderLyrics(track) {
   lyricsTitle.textContent = track.title;
   lyricsArtist.textContent = `${track.artist} · ${track.album}`;
@@ -252,7 +235,7 @@ function renderLyrics(track) {
         <p class="lyric-hi">${line.hi}</p>
         <p class="lyric-en">${line.en}</p>
       </div>
-    `
+    `,
     )
     .join("");
 }
@@ -279,7 +262,10 @@ function updateActiveLyric() {
   }
 
   document.querySelectorAll(".lyric-line").forEach((line) => {
-    line.classList.toggle("active", parseInt(line.dataset.index) === activeIndex);
+    line.classList.toggle(
+      "active",
+      parseInt(line.dataset.index) === activeIndex,
+    );
   });
 
   const activeLine = document.querySelector(".lyric-line.active");
@@ -292,10 +278,11 @@ function toggleLyricsPanel() {
   lyricsVisible = !lyricsVisible;
   lyricsPanel.classList.toggle("visible", lyricsVisible);
   lyricsBtn.classList.toggle("active", lyricsVisible);
-  document.querySelector(".main").classList.toggle("lyrics-open", lyricsVisible);
+  document
+    .querySelector(".main")
+    .classList.toggle("lyrics-open", lyricsVisible);
 }
 
-/* ---------- Player ---------- */
 function loadTrack(track) {
   if (!track) return;
   currentTrackId = track.id;
@@ -310,7 +297,7 @@ function loadTrack(track) {
   albumCoverGradient.style.display = "flex";
 
   if (ytReady && ytPlayer) {
-    ytPlayer.cueVideoById(track.videoId); // prepare, don't autoplay
+    ytPlayer.cueVideoById(track.videoId);
   }
 
   progressBar.value = 0;
@@ -331,7 +318,7 @@ function playTrack(id) {
   loadTrack(track);
 
   if (ytReady && ytPlayer) {
-    ytPlayer.loadVideoById(track.videoId); // begins playback
+    ytPlayer.loadVideoById(track.videoId);
     ytPlayer.playVideo();
   }
   isPlaying = true;
@@ -357,7 +344,6 @@ function playNext() {
   const next = (playOrderIndex + 1) % playOrder.length;
 
   if (next === 0 && repeatMode === "off") {
-    // End of queue, repeat off → stop
     isPlaying = false;
     updatePlayButton();
     return;
@@ -402,7 +388,6 @@ function updatePlayButton() {
   updateActiveCard();
 }
 
-/* ---------- Shuffle & repeat ---------- */
 function toggleShuffle() {
   shuffle = !shuffle;
   shuffleBtn.classList.toggle("active", shuffle);
@@ -411,14 +396,18 @@ function toggleShuffle() {
 }
 
 function cycleRepeat() {
-  repeatMode = repeatMode === "off" ? "all" : repeatMode === "all" ? "one" : "off";
+  repeatMode =
+    repeatMode === "off" ? "all" : repeatMode === "all" ? "one" : "off";
   repeatBtn.classList.toggle("active", repeatMode !== "off");
   repeatBtn.classList.toggle("repeat-one", repeatMode === "one");
   repeatBtn.title =
-    repeatMode === "off" ? "Repeat" : repeatMode === "all" ? "Repeat all" : "Repeat one";
+    repeatMode === "off"
+      ? "Repeat"
+      : repeatMode === "all"
+        ? "Repeat all"
+        : "Repeat one";
 }
 
-/* ---------- Progress ---------- */
 function updateProgress() {
   if (!ytReady || !ytPlayer) return;
   const dur = ytPlayer.getDuration() || 0;
@@ -451,7 +440,6 @@ progressBar.addEventListener("input", () => {
   }
 });
 
-/* ---------- Search ---------- */
 let searchTimer = null;
 
 function setBrowseVisible(visible) {
@@ -496,25 +484,29 @@ function setupSearch() {
   });
 }
 
-/* ---------- Nav & drawer ---------- */
 function setupNav() {
   document.querySelectorAll(".nav-option").forEach((option) => {
     option.addEventListener("click", () => {
-      document.querySelectorAll(".nav-option").forEach((o) => o.classList.remove("active"));
+      document
+        .querySelectorAll(".nav-option")
+        .forEach((o) => o.classList.remove("active"));
       option.classList.add("active");
 
       const view = option.dataset.view;
       if (view === "home") {
         searchInput.value = "";
         handleSearch("");
-        document.querySelector(".main-content").scrollTo({ top: 0, behavior: "smooth" });
+        document
+          .querySelector(".main-content")
+          .scrollTo({ top: 0, behavior: "smooth" });
       } else if (view === "search") {
         searchInput.focus();
       } else if (view === "liked") {
         searchInput.value = "";
         handleSearch("");
         const heading = document.getElementById("liked-heading");
-        if (heading) heading.scrollIntoView({ behavior: "smooth", block: "start" });
+        if (heading)
+          heading.scrollIntoView({ behavior: "smooth", block: "start" });
       }
       closeDrawer();
     });
@@ -536,7 +528,6 @@ function setupDrawer() {
   drawerOverlay.addEventListener("click", closeDrawer);
 }
 
-/* ---------- Volume ---------- */
 function setupVolume() {
   if (!volumeBar || !volumeIcon) return;
 
@@ -562,7 +553,11 @@ function setupVolume() {
 
 function updateVolumeIcon() {
   if (!volumeIcon) return;
-  volumeIcon.classList.remove("fa-volume-high", "fa-volume-low", "fa-volume-xmark");
+  volumeIcon.classList.remove(
+    "fa-volume-high",
+    "fa-volume-low",
+    "fa-volume-xmark",
+  );
   const vol = Number(volumeBar.value);
   if (vol === 0) {
     volumeIcon.classList.add("fa-volume-xmark");
@@ -573,7 +568,6 @@ function updateVolumeIcon() {
   }
 }
 
-/* ---------- YouTube IFrame API ---------- */
 function loadYouTubeAPI() {
   if (window.YT && window.YT.Player) {
     setupYoutubePlayer();
@@ -600,7 +594,7 @@ function setupYoutubePlayer() {
     events: {
       onReady: () => {
         ytReady = true;
-        if (songs.length) loadTrack(songs[0]); // cue the first song, no autoplay
+        if (songs.length) loadTrack(songs[0]);
       },
       onStateChange: (e) => {
         if (e.data === YT.PlayerState.ENDED) {
@@ -619,7 +613,6 @@ function setupYoutubePlayer() {
   });
 }
 
-/* ---------- Controls ---------- */
 playBtn.addEventListener("click", togglePlay);
 prevBtn.addEventListener("click", playPrev);
 nextBtn.addEventListener("click", playNext);
@@ -636,8 +629,9 @@ albumTitle.addEventListener("click", () => {
 });
 
 document.addEventListener("keydown", (e) => {
-  const typing = e.target.tagName === "INPUT" || e.target.tagName === "TEXTAREA";
-  if (typing) return; // don't hijack keys while the user is typing in search
+  const typing =
+    e.target.tagName === "INPUT" || e.target.tagName === "TEXTAREA";
+  if (typing) return;
   if (e.code === "Space") {
     e.preventDefault();
     togglePlay();
@@ -647,9 +641,8 @@ document.addEventListener("keydown", (e) => {
   if (e.code === "KeyL") toggleLyricsPanel();
 });
 
-/* ---------- Init ---------- */
 document.addEventListener("DOMContentLoaded", async () => {
-  loadYouTubeAPI(); // start loading the YouTube API early
+  loadYouTubeAPI();
 
   try {
     const [songsData, sectionsData] = await Promise.all([
@@ -667,14 +660,14 @@ document.addEventListener("DOMContentLoaded", async () => {
     renderLikedSection();
 
     if (songs.length) {
-      loadTrack(songs[0]); // cue first song (plays when the user hits play)
+      loadTrack(songs[0]);
       playOrderIndex = 0;
       updateLikeUI(songs[0].id);
     }
   } catch (err) {
     console.error(
       "Failed to load music data from the API. Make sure the server is running: npm start",
-      err
+      err,
     );
     lyricsBody.innerHTML = `
       <div class="lyrics-unavailable">
