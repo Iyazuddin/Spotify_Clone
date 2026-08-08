@@ -115,7 +115,6 @@ No environment variables, no API keys, no build step. The Express backend is opt
 - Swap the JSON store for MongoDB/MySQL
 - User accounts & cloud-synced liked songs
 - Animated equalizer/visualizer on the player
-- PWA support for offline use
 
 ---
 
