@@ -451,7 +451,7 @@ function setBrowseVisible(visible) {
   blocks.forEach((b) => b.classList.toggle("hidden", !visible));
 }
 
-async function handleSearch(q) {
+function handleSearch(q) {
   if (!q) {
     searchResults.classList.remove("visible");
     searchEmpty.classList.remove("visible");
@@ -460,17 +460,22 @@ async function handleSearch(q) {
     return;
   }
 
-  let results = [];
-  try {
-    const res = await fetch(`/api/songs?search=${encodeURIComponent(q)}`);
-    results = await res.json();
-  } catch (err) {
-    console.error("Search failed", err);
-  }
+  const query = q.toLowerCase();
+
+  const results = songs.filter(
+    (song) =>
+      song.title.toLowerCase().includes(query) ||
+      song.artist.toLowerCase().includes(query) ||
+      song.album.toLowerCase().includes(query),
+  );
 
   searchResultsGrid.innerHTML = "";
+
   const ids = results.map((s) => s.id);
-  results.forEach((s) => searchResultsGrid.appendChild(makeCard(s, ids)));
+
+  results.forEach((song) => {
+    searchResultsGrid.appendChild(makeCard(song, ids));
+  });
 
   searchEmpty.classList.toggle("visible", results.length === 0);
   searchResults.classList.add("visible");
@@ -645,13 +650,16 @@ document.addEventListener("DOMContentLoaded", async () => {
   loadYouTubeAPI();
 
   try {
-    const [songsData, sectionsData] = await Promise.all([
-      fetch("/api/songs").then((r) => r.json()),
-      fetch("/api/sections").then((r) => r.json()),
-    ]);
+    const res = await fetch("./data/songs.json");
 
-    songs = songsData;
-    sections = sectionsData;
+    if (!res.ok) {
+      throw new Error(`Failed to load songs.json: ${res.status}`);
+    }
+
+    const data = await res.json();
+
+    songs = data.songs;
+    sections = data.sections;
     songsById = new Map(songs.map((s) => [s.id, s]));
     queue = songs.map((s) => s.id);
     playOrder = [...queue];
@@ -665,14 +673,11 @@ document.addEventListener("DOMContentLoaded", async () => {
       updateLikeUI(songs[0].id);
     }
   } catch (err) {
-    console.error(
-      "Failed to load music data from the API. Make sure the server is running: npm start",
-      err,
-    );
+    console.error("Failed to load music data from data/songs.json.", err);
     lyricsBody.innerHTML = `
     <div class="lyrics-unavailable">
         <i class="fa-solid fa-wifi"></i>
-        <p>Couldn't reach the server.<br />Run <strong>npm start</strong> and reload.</p>
+        <p>Couldn't load the song library.<br />Make sure <strong>data/songs.json</strong> is in the deployed files.</p>
       </div>`;
   }
 

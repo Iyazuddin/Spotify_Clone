@@ -1,6 +1,6 @@
 # Spotify Clone — Web Player
 
-A fullstack Spotify-style web player that streams **real music**. Each song plays its official audio via the YouTube IFrame API, and the whole library is served from a Node.js/Express backend backed by a JSON file — no database required.
+A Spotify-style web player that streams **real music**. Every song plays its official audio via the YouTube IFrame API, and the library lives in a simple JSON file — no database required. The app is **static-first**: it runs on any static host (Netlify, Vercel, GitHub Pages) with zero setup, and an optional Express backend provides a REST API when you run it locally.
 
 Built as a portfolio project to demonstrate fullstack skills: an Express REST API, a vanilla-JS single-page UI, and modern responsive design.
 
@@ -12,7 +12,7 @@ Built as a portfolio project to demonstrate fullstack skills: an Express REST AP
 - **Playback controls** — play/pause, previous/next, seekable progress bar
 - **Shuffle & repeat** — shuffle, repeat-all, and repeat-one (with a visible "1" badge)
 - **Volume** — slider plus a mute/unmute toggle
-- **Live search** — debounced, server-side filtering by title / artist / album
+- **Live search** — instant filtering by title / artist / album (runs client-side, so it works on any host)
 - **Liked Songs** — heart any track; favorites persist in `localStorage` across reloads
 - **Lyrics panel** — synced transliterated + English lyrics for select tracks, with a graceful "not available" state for the rest
 - **Keyboard shortcuts** — `Space` play/pause · `←`/`→` prev/next · `L` toggle lyrics
@@ -62,6 +62,8 @@ Spotify_Clone/
 | `GET /api/sections` | Section definitions: `[{ id, title, songIds }]` |
 | `GET /api/health` | `{ "status": "ok" }` |
 
+> These endpoints are served by the Express server when you run `npm start`. The static deploy reads `data/songs.json` directly instead — no server required.
+
 ---
 
 ## 🚀 Getting Started
@@ -87,11 +89,22 @@ npm start
 http://localhost:4000
 ```
 
-> **Note:** the app must be served over HTTP by the server — opening `index.html` as a `file://` won't work because the frontend fetches data from the API. The server also loads `data/songs.json` **once at startup**, so restart it (`Ctrl+C`, `npm start`) after editing song data.
+> **Note:** the app must be served over HTTP — opening `index.html` as a `file://` won't work. It's **static-first**, so any static host works; running `npm start` additionally gives you the Express REST API on top.
 
 ### Adding or changing songs
 
-Edit `data/songs.json` — each song needs an `id`, `title`, `artist`, `album`, a public/embeddable YouTube `videoId`, a CSS `gradient` cover, and an optional timed `lyrics` array. Then restart the server.
+Edit `data/songs.json` — each song needs an `id`, `title`, `artist`, `album`, a public/embeddable YouTube `videoId`, a CSS `gradient` cover, and an optional timed `lyrics` array. Then refresh (static) or restart the server (`npm start`).
+
+---
+
+## 🌐 Deployment
+
+The app is **static-first** — the frontend reads `data/songs.json` directly and runs search client-side, so it needs no server at runtime. It deploys as-is to any static host:
+
+- **Netlify** — connect the GitHub repo (or drag-drop the folder). No build command; publish directory = project root.
+- **Vercel / GitHub Pages / Cloudflare Pages** — same thing, just serve the static files.
+
+No environment variables, no API keys, no build step. The Express backend is optional — run `npm start` locally if you also want the REST API.
 
 ---
 
