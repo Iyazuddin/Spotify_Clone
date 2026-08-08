@@ -670,7 +670,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       err,
     );
     lyricsBody.innerHTML = `
-      <div class="lyrics-unavailable">
+    <div class="lyrics-unavailable">
         <i class="fa-solid fa-wifi"></i>
         <p>Couldn't reach the server.<br />Run <strong>npm start</strong> and reload.</p>
       </div>`;

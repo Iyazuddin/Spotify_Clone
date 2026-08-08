@@ -1304,7 +1304,7 @@ h2 {
 }
 
 
-@media (pointer: coarse) {
+@media (pointer: coarse) { 
   .progress-bar::-webkit-slider-thumb,
   .volume-bar::-webkit-slider-thumb,
   .playback-bar:hover .progress-bar::-webkit-slider-thumb,
