@@ -36,7 +36,7 @@ Built as a portfolio project to demonstrate fullstack skills: an Express REST AP
 ## 📁 Project Structure
 
 ```
-Spotify_Clone/
+VibeFlow/
 ├── assets/                # UI icons (logo, nav, player controls)
 │   ├── logo.png
 │   ├── library_icon.png
@@ -76,8 +76,8 @@ Spotify_Clone/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Iyazuddin/Spotify_Clone.git
-cd Spotify_Clone
+git clone https://github.com/Yourname/VibeFlow.git
+cd VibeFlow
 
 # 2. Install dependencies
 npm install
@@ -115,7 +115,6 @@ No environment variables, no API keys, no build step. The Express backend is opt
 - Swap the JSON store for MongoDB/MySQL
 - User accounts & cloud-synced liked songs
 - Animated equalizer/visualizer on the player
-- PWA support for offline use
 
 ---
 
