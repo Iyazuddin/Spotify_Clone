@@ -76,7 +76,7 @@ Spotify_Clone/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Iyazuddin/Spotify_Clone.git
+git clone https://github.com/Yourname/Spotify_Clone.git
 cd Spotify_Clone
 
 # 2. Install dependencies
