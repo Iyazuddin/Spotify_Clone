@@ -309,6 +309,7 @@ function loadTrack(track) {
   }
 
   progressBar.value = 0;
+  progressBar.style.setProperty("--progress", "0%");
   currTimeEl.textContent = "0:00";
   totTimeEl.textContent = "0:00";
   renderLyrics(track);
@@ -423,6 +424,7 @@ function updateProgress() {
   if (dur > 0) {
     progressBar.value = (cur / dur) * 100;
   }
+  progressBar.style.setProperty("--progress", `${progressBar.value}%`);
   currTimeEl.textContent = formatTime(cur);
   totTimeEl.textContent = formatTime(dur);
   updateActiveLyric();
@@ -442,6 +444,7 @@ function stopProgressPoll() {
 }
 
 progressBar.addEventListener("input", () => {
+  progressBar.style.setProperty("--progress", `${progressBar.value}%`);
   if (ytReady && ytPlayer) {
     const dur = ytPlayer.getDuration() || 0;
     if (dur > 0) ytPlayer.seekTo((progressBar.value / 100) * dur, true);

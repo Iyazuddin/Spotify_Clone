@@ -895,7 +895,11 @@ h2 {
   -webkit-appearance: none;
   flex: 1;
   height: 4px;
-  background: rgba(255, 255, 255, 0.3);
+  background: linear-gradient(
+    to right,
+    var(--spotify-green) var(--progress, 0%),
+    rgba(255, 255, 255, 0.3) var(--progress, 0%)
+  );
   border-radius: 2px;
   cursor: pointer;
   transition: height var(--transition-fast);
@@ -913,13 +917,8 @@ h2 {
   background-color: var(--text-highlight);
   border-radius: 50%;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
-  opacity: 0;
-  transition: opacity var(--transition-fast), transform var(--transition-fast);
-}
-
-.playback-bar:hover .progress-bar::-webkit-slider-thumb,
-.progress-bar:focus::-webkit-slider-thumb {
   opacity: 1;
+  transition: transform var(--transition-fast);
 }
 
 .progress-bar::-webkit-slider-thumb:hover {
@@ -933,17 +932,16 @@ h2 {
   border: none;
   border-radius: 50%;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
-  opacity: 0;
-  transition: opacity var(--transition-fast);
-}
-
-.playback-bar:hover .progress-bar::-moz-range-thumb {
   opacity: 1;
 }
 
 .progress-bar::-moz-range-track {
   height: 4px;
-  background: rgba(255, 255, 255, 0.3);
+  background: linear-gradient(
+    to right,
+    var(--spotify-green) var(--progress, 0%),
+    rgba(255, 255, 255, 0.3) var(--progress, 0%)
+  );
   border-radius: 2px;
 }
 

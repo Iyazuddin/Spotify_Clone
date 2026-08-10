@@ -1,4 +1,4 @@
-# Spotify Clone — Web Player
+# VibeFlow — Web Player
 
 A Spotify-style web player that streams **real music**. Every song plays its official audio via the YouTube IFrame API, and the library lives in a simple JSON file — no database required. The app is **static-first**: it runs on any static host (Netlify, Vercel, GitHub Pages) with zero setup, and an optional Express backend provides a REST API when you run it locally.
 
