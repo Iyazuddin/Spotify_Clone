@@ -6,6 +6,12 @@ Built as a portfolio project to demonstrate fullstack skills: an Express REST AP
 
 ---
 
+## Live Demo
+
+🔗 **Live Website:** https://iyaz-vibeflow-player.netlify.app/
+
+---
+
 ## ✨ Features
 
 - **Real audio streaming** — every track plays its official song via the keyless YouTube IFrame Player API (no placeholder tunes, no API key needed)
